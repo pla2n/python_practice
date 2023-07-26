@@ -1,4 +1,4 @@
-N = int(input())
+1N = int(input())
 M = int(N / 5)
 
 while M >= 0:
