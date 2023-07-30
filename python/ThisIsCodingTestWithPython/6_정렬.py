@@ -21,7 +21,7 @@ print("Insertion Sort", array)
 array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
 
 def quick_sort(array, start, end): # 퀵 정렬
-    if start >= end:
+    if start >= end: # 시간 복잡도 O(NlogN) 최악의 경우 O(N^2) (이미 정렬되어 있는 경우 느려짐)
         return
     pivot = start # 기준
     left = start+1
@@ -47,8 +47,8 @@ array = [7, 5, 9, 0, 3, 1, 6, 2, 9, 1, 4, 8, 0, 5, 2]
 
 count = [0] * (max(array) + 1)
 
-for i in range(len(array)):
-    count[array[i]] += 1
+for i in range(len(array)): # 계수 정렬 데이터의 크기 범위가 제한 되어 정수 형태로 표현 가능 할 때만 사용 (큰 데이터와 작은 데이터 차이1000000 미만)
+    count[array[i]] += 1 # 데이터의 차이만큼 리스트를 생성하기 때문, 시간 복잡도 O(N+K) 공간 복잡도 O(N+K)
 for i in range(len(count)):
     for j in range(array[i]):
         print(i, end=' ')
