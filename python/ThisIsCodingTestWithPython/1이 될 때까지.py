@@ -15,7 +15,7 @@ N, K = map(int, sys.stdin.readline().split())
 result = 0
 while True:
     target = (N // K) * K # for 반복문 대신, 직접 반복횟수를 계산해줌으로써 시간 복잡도를 줄임
-    result += N-target
+    result += N-target # 뺀 만큼 1을 뺀것으로 해서 result에 더해줌
     N = target
     if N < K:
         break
