@@ -35,6 +35,7 @@ for d in distance:
         max_distance = max(max_distance, d)
 
 print(count-1, max_distance)
+
 '''
 3 2 1
 1 2 4
