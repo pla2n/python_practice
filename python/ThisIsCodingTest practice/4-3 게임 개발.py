@@ -29,7 +29,6 @@ def game(x, y, d):
     ny = y + dy[d-2]
     if 0 > nx or nx >= n or 0 > ny or ny >= m or L[nx][ny] == 1:
         return
-    return
 game(a, b, d)
 print(result)
 

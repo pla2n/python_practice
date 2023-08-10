@@ -28,7 +28,6 @@ def game(x, y, d):
     ny = y + dy[d-2]
     if 0 > nx or nx >= N or 0 > ny or ny >= M or L[nx][ny] == 1: # 뒤로 이동 했는데 만약 바다에 도착 했다면, 종료
         return
-    return
 
 game(X, Y, D)
 print(rs)
