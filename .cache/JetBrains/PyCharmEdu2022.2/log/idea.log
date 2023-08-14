@@ -1,0 +1,1022 @@
+2023-08-14 18:26:25,182 [      3]   INFO - #c.i.i.StartupUtil - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2023-08-14 18:26:25,192 [     13]   INFO - j.u.prefs - Created user preferences directory.
+2023-08-14 18:26:25,195 [     16]   WARN - j.u.prefs - Prefs file removed in background /home/lee/.java/.userPrefs/prefs.xml
+2023-08-14 18:26:25,207 [     28]   INFO - #c.i.i.StartupUtil - JNA library (64-bit) loaded in 11 ms
+2023-08-14 18:26:25,221 [     42]   INFO - #c.i.i.StartupUtil - IDE: PyCharm (build #PE-222.4345.35, 26 Oct 2022 23:27)
+2023-08-14 18:26:25,221 [     42]   INFO - #c.i.i.StartupUtil - OS: Linux (6.2.0-27-generic, amd64)
+2023-08-14 18:26:25,222 [     43]   INFO - #c.i.i.StartupUtil - JRE: 17.0.4.1+7-b469.62 (JetBrains s.r.o.)
+2023-08-14 18:26:25,222 [     43]   INFO - #c.i.i.StartupUtil - JVM: 17.0.4.1+7-b469.62 (OpenJDK 64-Bit Server VM)
+2023-08-14 18:26:25,224 [     45]   INFO - #c.i.i.StartupUtil - PID: 32501
+2023-08-14 18:26:25,284 [    105]   INFO - #c.i.i.StartupUtil - WM detected: GNOME Shell, desktop: ubuntu:GNOME
+2023-08-14 18:26:25,285 [    106]   INFO - #c.i.i.StartupUtil - JVM options: [-Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -XX:+IgnoreUnrecognizedVMOptions, -XX:CompileCommand=exclude,com/intellij/openapi/vfs/impl/FilePartNodeRoot,trieDescend, -ea, -Dsun.io.useCanonCaches=false, -Dsun.java2d.metal=true, -Djbr.catch.SIGABRT=true, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Dsun.tools.attach.tmp.only=true, -XX:ErrorFile=/home/lee/java_error_in_pycharm_%p.log, -XX:HeapDumpPath=/home/lee/java_error_in_pycharm_.hprof, -Djb.vmOptionsFile=/snap/pycharm-educational/57/bin/pycharm64.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.strict.classpath=true, -Didea.vendor.name=JetBrains, -Didea.paths.selector=PyCharmEdu2022.2, -Didea.platform.prefix=PyCharmEdu, -Dsplash=true, --add-opens=java.base/java.io=ALL-UNNAMED, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/java.lang.reflect=ALL-UNNAMED, --add-opens=java.base/java.net=ALL-UNNAMED, --add-opens=java.base/java.nio=ALL-UNNAMED, --add-opens=java.base/java.nio.charset=ALL-UNNAMED, --add-opens=java.base/java.text=ALL-UNNAMED, --add-opens=java.base/java.time=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED, --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/sun.security.ssl=ALL-UNNAMED, --add-opens=java.base/sun.security.util=ALL-UNNAMED, --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED, --add-opens=java.desktop/java.awt=ALL-UNNAMED, --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED, --add-opens=java.desktop/java.awt.event=ALL-UNNAMED, --add-opens=java.desktop/java.awt.image=ALL-UNNAMED, --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED, --add-opens=java.desktop/sun.awt=ALL-UNNAMED, --add-opens=java.desktop/sun.font=ALL-UNNAMED, --add-opens=java.desktop/sun.java2d=ALL-UNNAMED, --add-opens=java.desktop/sun.swing=ALL-UNNAMED, --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED, --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED, --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED, --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED]
+2023-08-14 18:26:25,285 [    106]   INFO - #c.i.i.StartupUtil - args: []
+2023-08-14 18:26:25,286 [    107]   INFO - #c.i.i.StartupUtil - library path: /usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+2023-08-14 18:26:25,286 [    107]   INFO - #c.i.i.StartupUtil - boot library path: /snap/pycharm-educational/57/jbr/lib
+2023-08-14 18:26:25,295 [    116]   INFO - #c.i.i.StartupUtil - locale=ko_KR JNU=UTF-8 file.encoding=UTF-8
+  idea.config.path=/home/lee/.config/JetBrains/PyCharmEdu2022.2
+  idea.system.path=/home/lee/.cache/JetBrains/PyCharmEdu2022.2
+  idea.plugins.path=/home/lee/.local/share/JetBrains/PyCharmEdu2022.2
+  idea.log.path=/home/lee/.cache/JetBrains/PyCharmEdu2022.2/log
+2023-08-14 18:26:25,297 [    118]   INFO - #c.i.i.StartupUtil - CPU cores: 16; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@598615e8[Running, parallelism = 15, size = 5, active = 1, running = 1, steals = 5, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@956bd98
+2023-08-14 18:26:32,713 [   7534]   INFO - #c.i.i.StartupUtil - Importing configs to /home/lee/.config/JetBrains/PyCharmEdu2022.2
+2023-08-14 18:26:32,720 [   7541]   INFO - #c.i.i.StartupUtil - No configs imported, starting with clean configs at /home/lee/.config/JetBrains/PyCharmEdu2022.2
+2023-08-14 18:26:32,729 [   7550]   INFO - #c.i.i.p.PluginManager - Using broken plugins file from IDE distribution
+2023-08-14 18:26:32,849 [   7670]   INFO - #c.i.i.p.PluginManager - Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available
+Module sql-core is not enabled because dependency com.intellij.database is not available
+Module Edu-Php is not enabled because dependency com.jetbrains.php is not available
+Module Edu-Go is not enabled because dependency org.jetbrains.plugins.go is not available
+Module Edu-Cpp is not enabled because dependency com.intellij.clion is not available
+Module Edu-Rust is not enabled because dependency org.rust.lang is not available
+Module Edu-JavaScript is not enabled because dependency JavaScript is not available
+Module Edu-Python-Pro is not enabled because dependency Pythonid is not available
+Module jvm-core is not enabled because dependency com.intellij.modules.java is not available
+Module sql-jvm is not enabled because dependency sql-core is not available
+Module Edu-Android is not enabled because dependency jvm-core is not available
+Module Edu-Scala is not enabled because dependency jvm-core is not available
+Module Edu-Kotlin is not enabled because dependency jvm-core is not available
+Module Edu-Sql-Kotlin is not enabled because dependency sql-core is not available
+Module Edu-Java is not enabled because dependency jvm-core is not available
+Module Edu-Sql-Java is not enabled because dependency sql-core is not available
+2023-08-14 18:26:32,855 [   7676]   INFO - #c.i.i.p.PluginManager - Loaded bundled plugins: WarmNeon Color Scheme (222.4345.35), IDE Features Trainer: Git Lessons (222.4345.35), Settings Repository (222.4345.35), Code With Me (222.4345.35), EduTools (2022.10-2022.2-1334), Emoji Picker (222.4345.35), Task Management (222.4345.35), Github Color Scheme (222.4345.35), Markdown (222.4345.35), Terminal (222.4345.35), Properties (222.4345.35), Shared Indexes (222.4345.35), Machine Learning Code Completion (222.4345.35), EditorConfig (222.4345.35), JetBrains Marketplace Licensing Support (222.4345.35), TextMate Bundles (222.4345.35), Projector Libraries for Code With Me and Remote Development (222.4345.35), Grazie (222.4345.35), Images (222.4345.35), Shell Script (222.4345.35), com.intellij.dev (222.4345.35), Mercurial (222.4345.35), Machine Learning in Search Everywhere (222.4345.35), Shared Indexes for Python (222.4345.35), GitHub (222.4345.35), PyCharm Educational Customization (222.4345.35), Configuration Script (222.4345.35), YAML (222.4345.35), Subversion (222.4345.35), Copyright (222.4345.35), Shared Indexes for Python Packages (222.4345.35), Monokai Color Scheme (222.4345.35), IDEA CORE (222.4345.35), Toml (222.4345.35), IDE Features Trainer (222.4345.35), Python Community Edition (222.4345.35), Twilight Color Scheme (222.4345.35), ReStructuredText (222.4345.35), IntelliLang (222.4345.35), Git (222.4345.35)
+2023-08-14 18:26:32,953 [   7774]   INFO - #c.i.i.s.DeviceIdManager - Generating new Device ID for 'FUS'
+2023-08-14 18:26:32,954 [   7775]   INFO - #c.i.i.s.e.EventLogConfiguration - Generating new salt for FUS
+2023-08-14 18:26:32,959 [   7780]   INFO - #o.j.i.BuiltInServerManager - built-in server started, port 63342
+2023-08-14 18:26:32,964 [   7785]   INFO - #c.i.a.o.PathMacrosImpl - Loaded path macros: {}
+2023-08-14 18:26:32,992 [   7813]   INFO - #c.i.u.i.FilePageCache - lower=100; upper=500; buffer=10; max=730
+2023-08-14 18:26:33,047 [   7868]   INFO - #c.i.o.v.n.p.PersistentFSConnector - 4 ms to load free records and inverted name index
+2023-08-14 18:26:33,054 [   7875]   INFO - #c.i.h.u.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding...
+2023-08-14 18:26:33,055 [   7876]   INFO - #c.i.h.u.LocalHistoryLog - FS has been rebuild, rebuilding local history...
+2023-08-14 18:26:33,136 [   7957]   INFO - #c.i.u.n.s.CertificateManager - Default SSL context initialized
+2023-08-14 18:26:33,204 [   8025] SEVERE - #c.i.o.a.i.ActionManagerImpl - Assertion failed: assert !app.isDispatchThread()
+java.lang.Throwable: Assertion failed: assert !app.isDispatchThread()
+	at com.intellij.openapi.diagnostic.Logger.assertTrue(Logger.java:220)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.<init>(ActionManagerImpl.java:135)
+	at com.jetbrains.rdserver.ui.actionPopupMenu.BackendActionManager.<init>(BackendActionManager.kt:17)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at com.intellij.serviceContainer.ConstructorInjectionKt.instantiateUsingPicoContainer(constructorInjection.kt:47)
+	at com.intellij.serviceContainer.ComponentManagerImpl.instantiateClassWithConstructorInjection(ComponentManagerImpl.kt:890)
+	at com.intellij.serviceContainer.ServiceComponentAdapter.createAndInitialize(ServiceComponentAdapter.kt:51)
+	at com.intellij.serviceContainer.ServiceComponentAdapter.doCreateInstance(ServiceComponentAdapter.kt:41)
+	at com.intellij.serviceContainer.BaseComponentAdapter.getInstanceUncached(BaseComponentAdapter.kt:119)
+	at com.intellij.serviceContainer.BaseComponentAdapter.getInstance(BaseComponentAdapter.kt:73)
+	at com.intellij.serviceContainer.BaseComponentAdapter.getInstance$default(BaseComponentAdapter.kt:66)
+	at com.intellij.serviceContainer.ComponentManagerImpl.doGetService(ComponentManagerImpl.kt:609)
+	at com.intellij.serviceContainer.ComponentManagerImpl.getService(ComponentManagerImpl.kt:583)
+	at com.intellij.openapi.client.ClientAwareComponentManager.getFromSelfOrCurrentSession(ClientAwareComponentManager.kt:37)
+	at com.intellij.openapi.client.ClientAwareComponentManager.getService(ClientAwareComponentManager.kt:22)
+	at com.intellij.openapi.actionSystem.ActionManager.getInstance(ActionManager.java:29)
+	at com.intellij.ide.ui.customization.CustomActionsSchema.fillActionGroups(CustomActionsSchema.java:341)
+	at com.jetbrains.python.edu.PyCharmEduPluginConfigurator.lambda$patchMainMenu$2(PyCharmEduPluginConfigurator.java:220)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:209)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.openapi.application.impl.ApplicationImpl$3.run(ApplicationImpl.java:513)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:75)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:118)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:42)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:779)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:749)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:918)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:766)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:450)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:791)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:449)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:624)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:447)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:493)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+2023-08-14 18:26:33,208 [   8029] SEVERE - #c.i.o.a.i.ActionManagerImpl - PyCharm 2022.2.2  Build #PE-222.4345.35
+2023-08-14 18:26:33,208 [   8029] SEVERE - #c.i.o.a.i.ActionManagerImpl - JDK: 17.0.4.1; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o.
+2023-08-14 18:26:33,209 [   8030] SEVERE - #c.i.o.a.i.ActionManagerImpl - OS: Linux
+2023-08-14 18:26:33,220 [   8041]   INFO - #c.i.i.s.p.i.SharedIndexMainZipStorage - Shared Indexes Storage is opened and empty
+2023-08-14 18:26:33,266 [   8087]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-14 18:26:33,268 [   8089]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-14 18:26:33,268 [   8089]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-14 18:26:33,269 [   8090]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-14 18:26:33,286 [   8107]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/github, version=222.4345.35, package=org.jetbrains.plugins.github, isBundled=true)
+2023-08-14 18:26:33,289 [   8110]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/python-ce, version=222.4345.35, package=null, isBundled=true)
+2023-08-14 18:26:33,289 [   8110]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/python-ce, version=222.4345.35, package=null, isBundled=true)
+2023-08-14 18:26:33,309 [   8130]   INFO - #c.i.o.a.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.prefer.p9.support, wsl.p9.show.roots.in.file.chooser, wsl.execute.with.wsl.exe, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, search.everywhere.mixed.results, new.project.wizard, editor.reader.mode, new.large.text.file.viewer, terminal.shell.command.handling, edu.course.hyperskill.problems.by.topic
+2023-08-14 18:26:33,314 [   8135]   INFO - #c.i.o.w.i.GlobalMenuLinux - Start glib main loop in thread: GlobalMenuLinux loop
+2023-08-14 18:26:33,316 [   8137]   INFO - #c.i.o.w.i.GlobalMenuLinux - Closed dbus-service 'com.canonical.AppMenu.Registrar'
+2023-08-14 18:26:33,510 [   8331]   INFO - #c.i.o.f.i.FileTypeManagerImpl - File types changed: ignored files list updated: *.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;*$py.class. Caused by plugin 'com.jetbrains.pycharm.edu.customization'.
+2023-08-14 18:26:33,708 [   8529]   INFO - #c.i.u.i.FileBasedIndexImpl - Indices to be built:Stubs(v = 46),FrameworkDetectionIndex(v = 65536),TodoIndex(v = 4109),xmlProperties(v = 2),IdIndex(v = 4118),Trigram.Index(v = 4099),DomFileIndex(v = 0),RelaxSymbolIndex(v = 0),fileIncludes(v = 6),yaml.keys.name(v = 1),html5.custom.attributes.index(v = 1),SchemaTypeInheritance(v = 2),XmlTagNames(v = 1),json.file.root.values(v = 5),XmlNamespaces(v = 8),Py.module.name(v = 0),Py.setuptools.namespace(v = 0),FilenameIndex(v = 258),filetypes(v = 258),editorconfig.index.name(v = 5)
+2023-08-14 18:26:33,711 [   8532]   INFO - c.i.u.i.FileBasedIndexDataInitialization - Index data initialization done: 563 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, editorconfig.index.name, xmlProperties, yaml.keys.name, Py.module.name, Py.setuptools.namespace].
+2023-08-14 18:26:33,743 [   8564]   INFO - #c.i.p.s.StubIndexImpl - Following stub indices will be built:markdown.header(v = 2),Py.class.attributes(v = 2),Py.function.shortName(v = 2),Py.module.attribute(v = 2),Python.Decorator(v = 2),Py.class.shortName(v = 2),properties.index(v = 2),dom.elementClass(v = 0),Py.variable.shortName(v = 3),Py.class.shortNameInsensitive(v = 2),dom.namespaceKey(v = 1),Py.class.super(v = 2)
+2023-08-14 18:26:33,744 [   8565]   INFO - c.i.p.s.StubIndexImpl$StubIndexInitialization - Index data initialization done: 32 ms. Initialized stub indexes: {Py.class.attributes, Py.function.shortName, dom.namespaceKey, Py.class.shortNameInsensitive, Py.variable.shortName, markdown.header, Py.module.attribute, dom.elementClass, properties.index, Python.Decorator, Py.class.super, Py.class.shortName}.
+2023-08-14 18:26:40,473 [  15294]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillTimeSpentEventsHandler)
+2023-08-14 18:26:40,474 [  15295]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillFrontendEventsHandler)
+2023-08-14 18:26:40,478 [  15299]   INFO - #c.i.o.u.i.UpdateCheckerService - channel: release
+2023-08-14 18:26:40,480 [  15301]   INFO - #c.i.i.ApplicationLoader - Input method disabler: canDisableInputMethod spent 4 ms, found keyboard layouts: [(kr+kr104, xkb), (hangul, ibus), ], result==false
+2023-08-14 18:26:40,501 [  15322]   INFO - #c.i.i.StartupUtil - notify that start-up thread is free
+2023-08-14 18:26:41,445 [  16266]   WARN - #c.i.o.a.i.ActionUpdater - 513 ms to grab EDT for #update@WelcomeScreen (LargeIconWithTextWrapper/com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6)
+2023-08-14 18:26:41,529 [  16350]   INFO - #c.i.i.p.m.MarketplaceRequests - Error reading Marketplace file: com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map due to end-of-input
+ at [Source: (sun.nio.ch.ChannelInputStream); line: 1, column: 0] (file=/home/lee/.cache/JetBrains/PyCharmEdu2022.2/plugins/pluginsXMLIds.json URL=https://plugins.jetbrains.com/files/pluginsXMLIds.json)
+2023-08-14 18:26:41,531 [  16352]   INFO - #c.i.o.u.i.UpdateChecker - failed to load plugins from default repository: No content to map due to end-of-input
+ at [Source: (sun.nio.ch.ChannelInputStream); line: 1, column: 0]
+2023-08-14 18:26:43,029 [  17850]   INFO - #c.i.i.s.DeviceIdManager - Generating new Device ID for 'MarketplaceDownloads'
+2023-08-14 18:26:48,676 [  23497]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-educational/57/bin/fsnotifier
+2023-08-14 18:26:48,682 [  23503]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Native file watcher is operational.
+2023-08-14 18:26:48,698 [  23519]   INFO - #c.j.p.p.PyCondaPackageService - System conda executable is not found
+2023-08-14 18:26:48,815 [  23636]   WARN - #c.i.u.u.u.LazyUiDisposable - use application as a parent disposable
+2023-08-14 18:26:48,816 [  23637]   WARN - #c.i.u.u.u.LazyUiDisposable - use application as a parent disposable
+2023-08-14 18:26:54,529 [  29350]   INFO - #c.j.r.f.FollowMeManager - Register new user 0:'lee' with ClientId=ClientId(value=Host)
+2023-08-14 18:28:25,937 [ 120758]   INFO - #c.i.w.i.i.l.m.ModuleBridgeLoaderService - Workspace model loaded without cache. Loading real project state into workspace model. Thread[JobScheduler FJ pool 14/15,4,main]
+2023-08-14 18:28:25,939 [ 120760]   INFO - #c.j.r.p.c.t.i.DistributedTestHost - Host address=localhost/127.0.0.1
+2023-08-14 18:28:25,951 [ 120772]   INFO - #c.i.p.c.ProjectCodeStyleSettingsManager - Initialized from default code style settings.
+2023-08-14 18:28:25,965 [ 120786]   INFO - STDOUT - Info  | RdCoroutineScope          | 16:JobScheduler FJ pool 3/15 | RdCoroutineHost overridden 
+2023-08-14 18:28:25,992 [ 120813]   INFO - #c.i.o.w.i.GlobalMenuLinux - created instance of GlobalMenuLinux for xid=0xa0045a
+2023-08-14 18:28:26,010 [ 120831]   INFO - #c.j.r.p.c.B.L - sessionStatus: null
+2023-08-14 18:28:26,011 [ 120832]   INFO - #c.j.r.p.c.B.L - freeSessionRemainingTimeMs: null null
+2023-08-14 18:28:26,173 [ 120994]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: false
+2023-08-14 18:28:26,173 [ 120994]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show new main toolbar: false
+2023-08-14 18:28:26,434 [ 121255]   INFO - #c.i.o.e.s.p.m.ExternalProjectsDataStorage - Load external projects data in 1 millis (read time: 1)
+2023-08-14 18:28:26,582 [ 121403]   INFO - #c.j.r.f.FollowMeManager - Register new user 0:'lee' with ClientId=ClientId(value=Host)
+2023-08-14 18:28:26,583 [ 121404]   INFO - #c.i.i.s.p.i.SharedIndexChunkConfigurationImpl - Chunk bundled-python-sdk-864c6d827748-5624bcb7aad9-com.jetbrains.pycharm.edu.sharedIndexes.bundled-PE-222.4345.35 is registered for project 'ThisIsCodingTestWithPython: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9), 
+2023-08-14 18:28:26,744 [ 121565]   INFO - #c.i.u.i.UnindexedFilesUpdater - Started scanning for indexing of ThisIsCodingTestWithPython. Reason: On project open
+2023-08-14 18:28:26,773 [ 121594]   INFO - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Attached 1 pre-built shared indexes: bundled-python-sdk-864c6d827748-5624bcb7aad9-com.jetbrains.pycharm.edu.sharedIndexes.bundled-PE-222.4345.35
+2023-08-14 18:28:26,789 [ 121610]   INFO - #c.i.i.s.IdeStartupScripts - 0 startup script(s) found
+2023-08-14 18:28:26,793 [ 121614]   INFO - #c.i.i.b.BookmarksManager - no state loaded for new bookmarks
+2023-08-14 18:28:26,796 [ 121617]   INFO - #c.i.i.b.BookmarkManager - no state loaded for old bookmarks
+2023-08-14 18:28:26,836 [ 121657]   INFO - #c.i.u.i.UnindexedFilesUpdater - Performing delayed pushing properties tasks for ThisIsCodingTestWithPython took 91ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:26,840 [ 121661]   INFO - #c.i.d.PerformanceWatcherImpl - Post-startup activities under progress took 536ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:27,356 [ 122177]   INFO - #c.i.i.f.FavoritesManager - no state loaded for old favorites
+2023-08-14 18:28:27,374 [ 122195]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning of ThisIsCodingTestWithPython uses 15 scanning threads
+2023-08-14 18:28:27,559 [ 122380]   INFO - #c.i.o.f.i.FileEditorManagerImpl - Project opening took 1645 ms
+2023-08-14 18:28:27,708 [ 122529]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning completed for ThisIsCodingTestWithPython. Number of scanned files: 215; Number of files for indexing: 215 took 872ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish
+2023-08-14 18:28:27,716 [ 122537]   INFO - #c.i.u.i.UnindexedFilesUpdater - Use 4 indexing threads for indexing of ThisIsCodingTestWithPython
+2023-08-14 18:28:28,199 [ 123020]   INFO - #c.i.u.i.UnindexedFilesUpdater - Finished for ThisIsCodingTestWithPython. Unindexed files update took 488ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:28,256 [ 123077]   INFO - #c.j.p.p.PyCondaPackageService - System conda executable is not found
+2023-08-14 18:28:28,260 [ 123081]   INFO - #c.j.p.p.PyCondaPackageService - System conda executable is not found
+2023-08-14 18:28:28,362 [ 123183]   INFO - #c.j.p.s.PythonSdkUpdater - Updating sys.path took 26 ms
+2023-08-14 18:28:28,364 [ 123185]   INFO - #c.j.p.s.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python311.zip
+2023-08-14 18:28:28,369 [ 123190]   INFO - #c.j.p.s.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095
+2023-08-14 18:28:28,369 [ 123190]   INFO - #c.j.p.s.PythonSdkUpdater - User skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /snap/pycharm-educational/57/plugins/python-ce/helpers/python-skeletons
+2023-08-14 18:28:28,396 [ 123217]   INFO - #c.i.u.i.RootChangesLogger - New rootsChanged event for "ThisIsCodingTestWithPython" project with partial rescanning with trace_hash = 750080712:
+java.lang.Throwable
+	at com.intellij.util.indexing.RootChangesLogger.info(RootChangesLogger.java:27)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.logRootChanges(EntityIndexingServiceImpl.java:108)
+	at com.intellij.util.indexing.EntityIndexingServiceImpl.indexChanges(EntityIndexingServiceImpl.java:87)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.synchronizeRoots(ProjectRootManagerComponent.java:299)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerComponent.fireRootsChangedEvent(ProjectRootManagerComponent.java:212)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.fireRootsChanged(ProjectRootManagerImpl.java:477)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:137)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$1.fireRootsChanged(ProjectRootManagerImpl.java:134)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$BatchSession.lambda$levelDown$0(ProjectRootManagerImpl.java:84)
+	at com.intellij.openapi.application.WriteAction.lambda$run$1(WriteAction.java:86)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteActionWithClass(ApplicationImpl.java:1011)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1037)
+	at com.intellij.openapi.application.WriteAction.run(WriteAction.java:85)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl$BatchSession.levelDown(ProjectRootManagerImpl.java:84)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.mergeRootsChangesDuring(ProjectRootManagerImpl.java:401)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.projectJdkChanged(ProjectRootManagerImpl.java:313)
+	at com.intellij.openapi.roots.impl.ProjectRootManagerImpl.setProjectSdk(ProjectRootManagerImpl.java:308)
+	at com.intellij.openapi.projectRoots.impl.SdkConfigurationUtil.lambda$setDirectoryProjectSdk$3(SdkConfigurationUtil.java:189)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1023)
+	at com.intellij.openapi.projectRoots.impl.SdkConfigurationUtil.setDirectoryProjectSdk(SdkConfigurationUtil.java:188)
+	at com.jetbrains.python.sdk.configuration.PyProjectSdkConfiguration.setReadyToUseSdk(PyProjectSdkConfiguration.kt:60)
+	at com.jetbrains.python.PythonSdkConfigurator$configureSdk$$inlined$let$lambda$4.run(actions.kt:67)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:209)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$100(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$1.run(TransactionGuardImpl.java:191)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.openapi.application.impl.ApplicationImpl$3.run(ApplicationImpl.java:513)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:75)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:118)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:42)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:779)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:730)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:724)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:749)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:918)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:766)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$6(IdeEventQueue.java:450)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:791)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$7(IdeEventQueue.java:449)
+	at com.intellij.openapi.application.TransactionGuardImpl.performActivity(TransactionGuardImpl.java:105)
+	at com.intellij.ide.IdeEventQueue.performActivity(IdeEventQueue.java:624)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:447)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:881)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:493)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:207)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:128)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:117)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:105)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:92)
+
+2023-08-14 18:28:28,413 [ 123234]   INFO - #c.i.u.t.DateFormatUtil - cannot load system formats (JNA=true), resorting to JRE for ko_KR
+2023-08-14 18:28:28,443 [ 123264]   INFO - #c.j.p.s.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python311.zip
+2023-08-14 18:28:28,444 [ 123265]   INFO - #c.j.p.s.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095
+2023-08-14 18:28:28,445 [ 123266]   INFO - #c.j.p.s.PythonSdkUpdater - User skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /snap/pycharm-educational/57/plugins/python-ce/helpers/python-skeletons
+2023-08-14 18:28:28,445 [ 123266]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-14 18:28:28,447 [ 123268]   INFO - #c.j.p.s.s.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.11
+2023-08-14 18:28:28,450 [ 123271]   INFO - #c.j.p.s.s.DefaultPregeneratedSkeletonsProvider - Home path is /snap/pycharm-educational/57
+2023-08-14 18:28:28,459 [ 123280]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/generator3/__main__.py -d /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095 -s /usr/lib/python3.11:/usr/lib/python3.11/lib-dynload:/usr/local/lib/python3.11/dist-packages:/usr/lib/python3/dist-packages:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/fpdf2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ldap3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/regex:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/hdbcli:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/invoke:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passpy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pynput:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chevron:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/urllib3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/openpyxl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyflakes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/playsound:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-2020:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/opentracing:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pep8-naming:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname
+2023-08-14 18:28:28,608 [ 123429]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _abc ('built-in')
+2023-08-14 18:28:28,609 [ 123430]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _abc at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,654 [ 123475]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ast ('built-in')
+2023-08-14 18:28:28,654 [ 123475]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _ast at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,737 [ 123558]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bisect ('built-in')
+2023-08-14 18:28:28,738 [ 123559]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _bisect at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,781 [ 123602]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _blake2 ('built-in')
+2023-08-14 18:28:28,781 [ 123602]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _blake2 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,823 [ 123644]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs ('built-in')
+2023-08-14 18:28:28,824 [ 123645]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,866 [ 123687]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _collections ('built-in')
+2023-08-14 18:28:28,866 [ 123687]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _collections at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,918 [ 123739]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _csv ('built-in')
+2023-08-14 18:28:28,918 [ 123739]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _csv at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:28,967 [ 123788]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _datetime ('built-in')
+2023-08-14 18:28:28,967 [ 123788]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _datetime at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,032 [ 123853]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _elementtree ('built-in')
+2023-08-14 18:28:29,032 [ 123853]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _elementtree at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,075 [ 123896]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.errors of _elementtree
+2023-08-14 18:28:29,075 [ 123896]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.model of _elementtree
+2023-08-14 18:28:29,082 [ 123903]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _functools ('built-in')
+2023-08-14 18:28:29,082 [ 123903]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _functools at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,095 [ 123916]   INFO - #c.i.u.i.UnindexedFilesUpdater - Started scanning for indexing of ThisIsCodingTestWithPython. Reason: changes in: "Python SDK Python 3.11"
+2023-08-14 18:28:29,095 [ 123916]   INFO - #c.i.u.i.UnindexedFilesUpdater - Performing delayed pushing properties tasks for ThisIsCodingTestWithPython took 0ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:29,096 [ 123917]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning of ThisIsCodingTestWithPython uses 15 scanning threads
+2023-08-14 18:28:29,126 [ 123947]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _heapq ('built-in')
+2023-08-14 18:28:29,128 [ 123949]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _heapq at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,175 [ 123996]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _imp ('built-in')
+2023-08-14 18:28:29,176 [ 123997]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _imp at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,223 [ 124044]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _io ('built-in')
+2023-08-14 18:28:29,225 [ 124046]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _io at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,287 [ 124108]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _locale ('built-in')
+2023-08-14 18:28:29,289 [ 124110]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _locale at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,346 [ 124167]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _md5 ('built-in')
+2023-08-14 18:28:29,347 [ 124168]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _md5 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,405 [ 124226]   INFO - #c.j.p.p.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/packaging_tool.py list
+2023-08-14 18:28:29,417 [ 124238]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _opcode ('built-in')
+2023-08-14 18:28:29,417 [ 124238]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _opcode at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,476 [ 124297]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _operator ('built-in')
+2023-08-14 18:28:29,476 [ 124297]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _operator at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,555 [ 124376]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _pickle ('built-in')
+2023-08-14 18:28:29,562 [ 124383]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _pickle at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,640 [ 124461]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixsubprocess ('built-in')
+2023-08-14 18:28:29,647 [ 124468]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _posixsubprocess at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,735 [ 124556]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _random ('built-in')
+2023-08-14 18:28:29,735 [ 124556]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _random at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,824 [ 124645]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha1 ('built-in')
+2023-08-14 18:28:29,825 [ 124646]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sha1 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,914 [ 124735]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha256 ('built-in')
+2023-08-14 18:28:29,914 [ 124735]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sha256 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:29,999 [ 124820]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha3 ('built-in')
+2023-08-14 18:28:29,999 [ 124820]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sha3 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,089 [ 124910]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha512 ('built-in')
+2023-08-14 18:28:30,090 [ 124911]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sha512 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,164 [ 124985]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _signal ('built-in')
+2023-08-14 18:28:30,171 [ 124992]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _signal at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,250 [ 125071]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _socket ('built-in')
+2023-08-14 18:28:30,250 [ 125071]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _socket at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,315 [ 125136]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning completed for ThisIsCodingTestWithPython. Number of scanned files: 8094; Number of files for indexing: 7205 took 1220ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:30,316 [ 125137]   INFO - #c.i.u.i.UnindexedFilesUpdater - Use 4 indexing threads for indexing of ThisIsCodingTestWithPython
+2023-08-14 18:28:30,365 [ 125186]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sre ('built-in')
+2023-08-14 18:28:30,372 [ 125193]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sre at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,445 [ 125266]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _stat ('built-in')
+2023-08-14 18:28:30,452 [ 125273]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _stat at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,540 [ 125361]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _statistics ('built-in')
+2023-08-14 18:28:30,541 [ 125362]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _statistics at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,625 [ 125446]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _string ('built-in')
+2023-08-14 18:28:30,626 [ 125447]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _string at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,710 [ 125531]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _struct ('built-in')
+2023-08-14 18:28:30,712 [ 125533]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _struct at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,796 [ 125617]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _symtable ('built-in')
+2023-08-14 18:28:30,803 [ 125624]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _symtable at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,883 [ 125704]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _thread ('built-in')
+2023-08-14 18:28:30,883 [ 125704]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _thread at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:30,983 [ 125804]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tokenize ('built-in')
+2023-08-14 18:28:30,983 [ 125804]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _tokenize at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,067 [ 125888]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tracemalloc ('built-in')
+2023-08-14 18:28:31,067 [ 125888]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _tracemalloc at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,152 [ 125973]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _warnings ('built-in')
+2023-08-14 18:28:31,158 [ 125979]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _warnings at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,243 [ 126064]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _weakref ('built-in')
+2023-08-14 18:28:31,243 [ 126064]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _weakref at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,343 [ 126164]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - array ('built-in')
+2023-08-14 18:28:31,350 [ 126171]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for array at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,447 [ 126268]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - atexit ('built-in')
+2023-08-14 18:28:31,449 [ 126270]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for atexit at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,542 [ 126363]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - binascii ('built-in')
+2023-08-14 18:28:31,549 [ 126370]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for binascii at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,652 [ 126473]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - builtins ('built-in')
+2023-08-14 18:28:31,659 [ 126480]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for builtins at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,884 [ 126705]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cmath ('built-in')
+2023-08-14 18:28:31,891 [ 126712]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cmath at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:31,990 [ 126811]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - errno ('built-in')
+2023-08-14 18:28:31,997 [ 126818]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for errno at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,065 [ 126886]   INFO - #c.i.d.MemorySizeConfigurator - Physical memory 15609M, minimum memory size 128M, -Xmx adjusted from 750M to 1951M
+2023-08-14 18:28:32,090 [ 126911]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - faulthandler ('built-in')
+2023-08-14 18:28:32,091 [ 126912]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for faulthandler at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,197 [ 127018]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - fcntl ('built-in')
+2023-08-14 18:28:32,203 [ 127024]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for fcntl at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,293 [ 127114]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gc ('built-in')
+2023-08-14 18:28:32,300 [ 127121]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for gc at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,400 [ 127221]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - grp ('built-in')
+2023-08-14 18:28:32,401 [ 127222]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for grp at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,491 [ 127312]   INFO - #c.j.r.p.c.CodeWithMeCleanup - running activity to cleanup old thin clients... Root path is '/home/lee/.cache/JetBrains'. JvmStartTimeMs=1692005184984
+2023-08-14 18:28:32,493 [ 127314]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client system folders to check
+2023-08-14 18:28:32,494 [ 127315]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client config folders to check
+2023-08-14 18:28:32,496 [ 127317]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - itertools ('built-in')
+2023-08-14 18:28:32,497 [ 127318]   INFO - #c.j.r.p.c.CodeWithMeCleanup - keep only [] major versions
+2023-08-14 18:28:32,498 [ 127319]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for itertools at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,543 [ 127364]   INFO - #c.j.p.p.PyPIPackageUtil - Fetching index of all packages available on https://pypi.python.org/simple
+2023-08-14 18:28:32,616 [ 127437]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - marshal ('built-in')
+2023-08-14 18:28:32,616 [ 127437]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for marshal at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,711 [ 127532]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - math ('built-in')
+2023-08-14 18:28:32,712 [ 127533]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for math at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,817 [ 127638]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - posix ('built-in')
+2023-08-14 18:28:32,824 [ 127645]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for posix at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:32,953 [ 127774]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pwd ('built-in')
+2023-08-14 18:28:32,955 [ 127776]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pwd at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,051 [ 127872]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pyexpat ('built-in')
+2023-08-14 18:28:33,053 [ 127874]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pyexpat at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,150 [ 127971]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.errors of pyexpat
+2023-08-14 18:28:33,162 [ 127983]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.model of pyexpat
+2023-08-14 18:28:33,169 [ 127990]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - select ('built-in')
+2023-08-14 18:28:33,175 [ 127996]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for select at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,269 [ 128090]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - spwd ('built-in')
+2023-08-14 18:28:33,276 [ 128097]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for spwd at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,378 [ 128199]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - sys ('built-in')
+2023-08-14 18:28:33,379 [ 128200]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for sys at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,499 [ 128320]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - syslog ('built-in')
+2023-08-14 18:28:33,500 [ 128321]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for syslog at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,593 [ 128414]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - time ('built-in')
+2023-08-14 18:28:33,593 [ 128414]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for time at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,712 [ 128533]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - unicodedata ('built-in')
+2023-08-14 18:28:33,713 [ 128534]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for unicodedata at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,817 [ 128638]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxsubtype ('built-in')
+2023-08-14 18:28:33,818 [ 128639]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for xxsubtype at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:33,936 [ 128757]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - zlib ('built-in')
+2023-08-14 18:28:33,937 [ 128758]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for zlib at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda'
+2023-08-14 18:28:34,045 [ 128866]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imaging ('/usr/lib/python3/dist-packages/PIL/_imaging.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,052 [ 128873]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._imaging at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/09f6ee46a9e37b4aee04cea2464630acdb12b736de03c1c8c6befc658fcaafa5'
+2023-08-14 18:28:34,136 [ 128957]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingcms ('/usr/lib/python3/dist-packages/PIL/_imagingcms.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,138 [ 128959]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._imagingcms at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/1ab07ff5804fcf831e3ea6d10ffc5f910ada2d5723e6ac0c4ef8e9c7d5f107d6'
+2023-08-14 18:28:34,222 [ 129043]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingft ('/usr/lib/python3/dist-packages/PIL/_imagingft.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,223 [ 129044]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._imagingft at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/9c0f7a8e7e3a01452fb39898d069561661abf3d95cf0790fd5bc2187873f3997'
+2023-08-14 18:28:34,302 [ 129123]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmath ('/usr/lib/python3/dist-packages/PIL/_imagingmath.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,308 [ 129129]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._imagingmath at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/a490fbcb06cdaa4f538160e8368e07842290a138ae89baa3b108d39bdd028563'
+2023-08-14 18:28:34,384 [ 129205]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmorph ('/usr/lib/python3/dist-packages/PIL/_imagingmorph.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,386 [ 129207]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._imagingmorph at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/eac3bdb0f006047febd7ca272f436c8ace6fb84a8671b11cef06430c926dd8d9'
+2023-08-14 18:28:34,465 [ 129286]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._webp ('/usr/lib/python3/dist-packages/PIL/_webp.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,465 [ 129286]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for PIL._webp at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/ac40d0e2bb795c4abdd101a6b9f9f6acb24cbdf1483b172995df8027ee3da949'
+2023-08-14 18:28:34,545 [ 129366]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.11/lib-dynload/_asyncio.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,545 [ 129366]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _asyncio at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/fe6d6dfb29fe53720f6442c3a233a3145e123ab009ba38b9946fa9508c38dd87'
+2023-08-14 18:28:34,660 [ 129481]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.io of _asyncio
+2023-08-14 18:28:34,661 [ 129482]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.re of _asyncio
+2023-08-14 18:28:34,669 [ 129490]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.11/lib-dynload/_bz2.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,669 [ 129490]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _bz2 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/476d05fce0b0bbdd7078c8776475e23b4ed65fb352e88c4cdadd85e3abd7c9c3'
+2023-08-14 18:28:34,748 [ 129569]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _cffi_backend ('/usr/lib/python3/dist-packages/_cffi_backend.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,749 [ 129570]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _cffi_backend at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/4f0b80413a0e0551418d666b644f1b899dc51056a2e67e82bb88ece3119e6e04'
+2023-08-14 18:28:34,843 [ 129664]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.11/lib-dynload/_codecs_cn.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,850 [ 129671]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_cn at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/689f5e568bdaa3d9c9c1c64aa806899e4b0562a4b6ef1100781889f2775b8a94'
+2023-08-14 18:28:34,919 [ 129740]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.11/lib-dynload/_codecs_hk.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:34,926 [ 129747]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_hk at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/cf1688f03e153a780a7f741c76cf51fa8192ce620613ec710b0e4d32f7a9be18'
+2023-08-14 18:28:35,000 [ 129821]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.11/lib-dynload/_codecs_iso2022.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,000 [ 129821]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_iso2022 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/127e95ab3da7b1036df3dfa0c628f34b4139e03dd235bddf3b330cec4c2270b7'
+2023-08-14 18:28:35,078 [ 129899]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.11/lib-dynload/_codecs_jp.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,078 [ 129899]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_jp at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/d5a3f08e0beda1a0781fe0c7eaa1abaa83ff885f4f544bd73ab9e713fecc1678'
+2023-08-14 18:28:35,151 [ 129972]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.11/lib-dynload/_codecs_kr.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,158 [ 129979]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_kr at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/575a0b4ce8e57053d7a63cbdcb96982f109a980e8978fed378acb0aa677a7a2f'
+2023-08-14 18:28:35,232 [ 130053]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.11/lib-dynload/_codecs_tw.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,232 [ 130053]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _codecs_tw at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/a08fc0845d491ed30218a2fdf220cbf3df33aaad947b84f645f7e82d46845025'
+2023-08-14 18:28:35,306 [ 130127]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.11/lib-dynload/_contextvars.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,315 [ 130136]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _contextvars at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/80ed11233a440f159200779cf0f0634bada9dcd3569c4f59ba3309cdb4a55f6d'
+2023-08-14 18:28:35,389 [ 130210]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.11/lib-dynload/_crypt.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,389 [ 130210]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _crypt at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/1d2debef11644e9e9b35d5c68be9b3c68d082f7509523bae5dc8ce6e87fa860b'
+2023-08-14 18:28:35,458 [ 130279]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,465 [ 130286]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _ctypes at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/c9db505af871837618b4366cd9d88da5d0e32b83bf7ddbbdc48e37e0f888f9b8'
+2023-08-14 18:28:35,544 [ 130365]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.11/lib-dynload/_ctypes_test.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,550 [ 130371]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _ctypes_test at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/234088ca5b7f44b71688ff28f913c9cc3bbbeda13f1db6476584f0827de134a4'
+2023-08-14 18:28:35,621 [ 130442]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.11/lib-dynload/_curses.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,623 [ 130444]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _curses at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/f8c563fe20cb2c038c913f5d116cecd7621fadfc3cf447594f6e6541a301de9a'
+2023-08-14 18:28:35,749 [ 130570]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.11/lib-dynload/_curses_panel.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,750 [ 130571]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _curses_panel at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/86d7809bacbf2230034772c5c976709f5a7514833ae5d26a19f23a7fc4280147'
+2023-08-14 18:28:35,829 [ 130650]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.11/lib-dynload/_dbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,830 [ 130651]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _dbm at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/461c9d8db79525238b78345382e6fecd1c788e6aa364510c6a80441683fb09fc'
+2023-08-14 18:28:35,903 [ 130724]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_bindings ('/usr/lib/python3/dist-packages/_dbus_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:35,904 [ 130725]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _dbus_bindings at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/ff3cccd2e6a6723b259178232c6b073a4f028df4527a87ac8b0eb11439d47735'
+2023-08-14 18:28:36,074 [ 130895]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.errors of _dbus_bindings
+2023-08-14 18:28:36,081 [ 130902]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule pyexpat.model of _dbus_bindings
+2023-08-14 18:28:36,088 [ 130909]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule xml.parsers.expat.model of _dbus_bindings
+2023-08-14 18:28:36,099 [ 130920]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule xml.parsers.expat.errors of _dbus_bindings
+2023-08-14 18:28:36,111 [ 130932]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_glib_bindings ('/usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,113 [ 130934]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _dbus_glib_bindings at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/da5ca395e871eb38399182dff50f54c67be760c2185e3e77fa3506cf14ad401f'
+2023-08-14 18:28:36,214 [ 131035]   INFO - #c.i.c.ComponentStoreImpl - Saving appCodeInsightSettings took 13 ms
+2023-08-14 18:28:36,215 [ 131036]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.11/lib-dynload/_decimal.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,215 [ 131036]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _decimal at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/812737196554faf81a15461794ab66ff6b44411b307a8085d94b369a2573f0a5'
+2023-08-14 18:28:36,319 [ 131140]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.11/lib-dynload/_gdbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,319 [ 131140]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _gdbm at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/071387cdb3d8a2a67749f0b83d4dfca401253f1ce741d86414e41fc592742472'
+2023-08-14 18:28:36,398 [ 131219]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.11/lib-dynload/_hashlib.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,399 [ 131220]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _hashlib at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/746dd58051e6ebfaf836baa98e03c447414c5e4eaf1a31f604ec0d808f3e97ad'
+2023-08-14 18:28:36,487 [ 131308]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _json ('/usr/lib/python3.11/lib-dynload/_json.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,487 [ 131308]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _json at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/bfc19b6694b9ca4a1dcd1986967879758b01044062a2935724535715f12b8293'
+2023-08-14 18:28:36,556 [ 131377]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.11/lib-dynload/_lsprof.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,556 [ 131377]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _lsprof at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/1989c7827d4c677f86ff7443d8705493de31af10363f4eff4556587a700dde74'
+2023-08-14 18:28:36,630 [ 131451]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.11/lib-dynload/_lzma.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,637 [ 131458]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _lzma at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/0a3730b2995a949b921e7460f9af848c3141dd6af9f5f23d4ed3e73581147055'
+2023-08-14 18:28:36,716 [ 131537]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.11/lib-dynload/_multibytecodec.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,716 [ 131537]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _multibytecodec at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/abbbedab20374e1e3440a88b32ceffcda85240a20cecb9fa2af22fd116868806'
+2023-08-14 18:28:36,785 [ 131606]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.11/lib-dynload/_multiprocessing.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,785 [ 131606]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _multiprocessing at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/eb3ca289b7fc77bea4bea65c52caa272d45598384eb440ce32d2216fa34c5518'
+2023-08-14 18:28:36,859 [ 131680]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.11/lib-dynload/_posixshmem.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,861 [ 131682]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _posixshmem at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/93c43880961c7b9574d53013ee2501544c8617ed3fb8827218b58aa0ec48a92a'
+2023-08-14 18:28:36,945 [ 131766]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.11/lib-dynload/_queue.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:36,947 [ 131768]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _queue at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/ddec2635d38d4df0b6130daab9d434be0e40bcbecea0ffd0e6cf2cbd2f1bc379'
+2023-08-14 18:28:37,022 [ 131843]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.11/lib-dynload/_sqlite3.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,028 [ 131849]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _sqlite3 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/595d47a2b6df19d20bc845365069d431b4c439e024e02aff40af9dd4df87d170'
+2023-08-14 18:28:37,118 [ 131939]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.11/lib-dynload/_ssl.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,125 [ 131946]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _ssl at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/e58b6b51852e1d080177e60a4ab2da7b681b83fdb8fe809a181753138b178b98'
+2023-08-14 18:28:37,327 [ 132148]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.11/lib-dynload/_testbuffer.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,328 [ 132149]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testbuffer at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/31104dfc94d5dbc3152138fa1332f8034be2297a36a8331e2a613a027da69d2a'
+2023-08-14 18:28:37,428 [ 132249]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.11/lib-dynload/_testcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,436 [ 132257]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testcapi at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/8373a3c8d703a2e44a0273a35af5f79ffc122fa5ac1fcc0d6ea28caf719a76f3'
+2023-08-14 18:28:37,530 [ 132351]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testclinic ('/usr/lib/python3.11/lib-dynload/_testclinic.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,531 [ 132352]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testclinic at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/fd3c41f39b63ad4995a7ccc2341ef3d57df6770bab379a673213ed501aa44422'
+2023-08-14 18:28:37,605 [ 132426]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.11/lib-dynload/_testimportmultiple.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,612 [ 132433]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testimportmultiple at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/40c35f7b918a1e2b55d19b75a5b56a10d79cf63fab31ee4ca2a4e60af0e26edd'
+2023-08-14 18:28:37,680 [ 132501]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.11/lib-dynload/_testinternalcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,680 [ 132501]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testinternalcapi at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/651a16bd927940013b07b8e07b4fb387c74eac781a42675e3e33e30ca9fd4fbf'
+2023-08-14 18:28:37,751 [ 132572]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.11/lib-dynload/_testmultiphase.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,753 [ 132574]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _testmultiphase at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/b2b09d1f65b9eb5c956edf59e7a10a09a6ab648741311d458241f562dfc3f470'
+2023-08-14 18:28:37,836 [ 132657]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _typing ('/usr/lib/python3.11/lib-dynload/_typing.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,838 [ 132659]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _typing at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/4494188cc4b84fdeae52850fe954c4591722a965e039484a7d535be61d0c04f8'
+2023-08-14 18:28:37,855 [ 132676]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11810 ms since showing to preload popup menu 'File' at 'MainMenu' in 68 ms
+2023-08-14 18:28:37,868 [ 132689]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11826 ms since showing to preload popup menu 'Edit' at 'MainMenu' in 83 ms
+2023-08-14 18:28:37,890 [ 132711]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11848 ms since showing to preload popup menu 'View' at 'MainMenu' in 104 ms
+2023-08-14 18:28:37,911 [ 132732]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.11/lib-dynload/_uuid.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,914 [ 132735]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11872 ms since showing to preload popup menu 'Navigate' at 'MainMenu' in 128 ms
+2023-08-14 18:28:37,917 [ 132738]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _uuid at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/f4f767cd7514c03e58e3c95ecf91ecbd58bf2ec796c9f9c8b8f08c055fc660d4'
+2023-08-14 18:28:37,951 [ 132772]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11909 ms since showing to preload popup menu 'Code' at 'MainMenu' in 165 ms
+2023-08-14 18:28:37,989 [ 132810]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.11/lib-dynload/_xxsubinterpreters.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:37,996 [ 132817]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _xxsubinterpreters at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/91ce6ec4492dc0c019d5f877dd91380bdc870b22ad9d2731504a388236172b38'
+2023-08-14 18:28:38,089 [ 132910]   INFO - #c.i.o.a.i.PopupMenuPreloader - 12048 ms since showing to preload popup menu 'Help' at 'MainMenu' in 304 ms
+2023-08-14 18:28:38,089 [ 132910]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.11/lib-dynload/_xxtestfuzz.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,096 [ 132917]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _xxtestfuzz at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/f01bcc1c90df6295cd0a2c52257b57a013d6173f8eaccd11b68e164cc34efc7f'
+2023-08-14 18:28:38,099 [ 132920]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11401 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 311 ms
+2023-08-14 18:28:38,104 [ 132925]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11398 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 316 ms
+2023-08-14 18:28:38,216 [ 133037]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _zoneinfo ('/usr/lib/python3.11/lib-dynload/_zoneinfo.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,224 [ 133045]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for _zoneinfo at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/004965cd74e23f8109871144fe18a87187833644bf737e8197b8f8a2df1abe0e'
+2023-08-14 18:28:38,308 [ 133129]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_inst ('/usr/lib/python3/dist-packages/apt_inst.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,309 [ 133130]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for apt_inst at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/8d4ff050b10706b67c157bb91c3c985c651f26870ffbb9457b28b5d15c58d58a'
+2023-08-14 18:28:38,404 [ 133225]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_pkg ('/usr/lib/python3/dist-packages/apt_pkg.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,406 [ 133227]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for apt_pkg at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/7b9b9edaf3dc7f3f0eec467a3cd1ccc53c1ff500a86ef4ec3a505fd1c31d46fa'
+2023-08-14 18:28:38,631 [ 133452]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.11/lib-dynload/audioop.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,633 [ 133454]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for audioop at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/a58bb5c497cd7e8b719599bf277eae7bf7d63c618329e521a31619ae58294b24'
+2023-08-14 18:28:38,714 [ 133535]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11048 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 925 ms
+2023-08-14 18:28:38,715 [ 133536]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - bcrypt._bcrypt ('/usr/lib/python3/dist-packages/bcrypt/_bcrypt.abi3.so')
+2023-08-14 18:28:38,715 [ 133536]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11093 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 927 ms
+2023-08-14 18:28:38,721 [ 133542]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for bcrypt._bcrypt at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/9ecc2154ab8aae0b68e9756eca199c3be8d3c7234185d4d74bf6e02ffd7f57a5'
+2023-08-14 18:28:38,795 [ 133616]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule _bcrypt.lib of bcrypt._bcrypt
+2023-08-14 18:28:38,801 [ 133622]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - brlapi ('/usr/lib/python3/dist-packages/brlapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,803 [ 133624]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for brlapi at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/80860150df689f97885efba9205824a4e870d11c62d20c6ed7852e784faedf68'
+2023-08-14 18:28:38,907 [ 133728]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule _cython_0_29_32 of brlapi
+2023-08-14 18:28:38,914 [ 133735]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule cython_runtime of brlapi
+2023-08-14 18:28:38,915 [ 133736]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cairo._cairo ('/usr/lib/python3/dist-packages/cairo/_cairo.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:38,921 [ 133742]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cairo._cairo at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/9be9dae5d1c7f45002b04c866a460258ec109d747a28909533a5a9e373b4c544'
+2023-08-14 18:28:39,026 [ 133847]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._openssl ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_openssl.abi3.so')
+2023-08-14 18:28:39,027 [ 133848]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cryptography.hazmat.bindings._openssl at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/aba87a82fa7dff75eaf31bd3988488bfc234f3fb81b6975cba9c146e0bd4f923'
+2023-08-14 18:28:39,105 [ 133926]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule cryptography.hazmat.bindings._openssl.lib of cryptography.hazmat.bindings._openssl
+2023-08-14 18:28:39,852 [ 134673]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._rust ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_rust.abi3.so')
+2023-08-14 18:28:39,859 [ 134680]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cryptography.hazmat.bindings._rust at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/4526fc98663c687bb62d87db31ed8d85256c296d689e1ac8a467a756ae0de528'
+2023-08-14 18:28:39,928 [ 134749]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cups ('/usr/lib/python3/dist-packages/cups.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:39,935 [ 134756]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cups at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/8b0072083d4a01be596c86bce61db6bf98a7fc4c7be42e0f3fc6bca4ee7f1fde'
+2023-08-14 18:28:40,091 [ 134912]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cupsext ('/usr/lib/python3/dist-packages/cupsext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,092 [ 134913]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for cupsext at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/58cc1acaba203039c20149e64acbcf6fb371e941f05c66c340556c73cef4258e'
+2023-08-14 18:28:40,172 [ 134993]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - duplicity._librsync ('/usr/lib/python3/dist-packages/duplicity/_librsync.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,173 [ 134994]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for duplicity._librsync at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/0174db95277479152ab6670c250167e205e4b96fb5bb1793be6680aaf9ac5953'
+2023-08-14 18:28:40,245 [ 135066]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gi._gi ('/usr/lib/python3/dist-packages/gi/_gi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,247 [ 135068]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for gi._gi at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/967a9cb7914b0c7e37caeedc5e6cefa8b3e0ea49cc0f3ffacc2067451902dac2'
+2023-08-14 18:28:40,355 [ 135176]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.io of gi._gi
+2023-08-14 18:28:40,366 [ 135187]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.re of gi._gi
+2023-08-14 18:28:40,380 [ 135201]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule gi._gobject of gi._gi
+2023-08-14 18:28:40,387 [ 135208]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule glib of gi._gi
+2023-08-14 18:28:40,398 [ 135219]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule gobject of gi._gi
+2023-08-14 18:28:40,410 [ 135231]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule gio of gi._gi
+2023-08-14 18:28:40,416 [ 135237]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule gtk of gi._gi
+2023-08-14 18:28:40,428 [ 135249]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule gtk.gdk of gi._gi
+2023-08-14 18:28:40,444 [ 135265]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - hpmudext ('/usr/lib/python3/dist-packages/hpmudext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,445 [ 135266]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for hpmudext at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/1ae835cfb7ce394c6b18eba9883100ff2b5596deec6b03b01d8baf0eec7f58a5'
+2023-08-14 18:28:40,518 [ 135339]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - markupsafe._speedups ('/usr/lib/python3/dist-packages/markupsafe/_speedups.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,518 [ 135339]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for markupsafe._speedups at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/02249b53173178bff0878fe011c24d6d720755f4c4fdd557651bb68c6f8f4670'
+2023-08-14 18:28:40,587 [ 135408]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.io of markupsafe._speedups
+2023-08-14 18:28:40,593 [ 135414]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule typing.re of markupsafe._speedups
+2023-08-14 18:28:40,594 [ 135415]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.11/lib-dynload/mmap.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,600 [ 135421]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for mmap at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/4a1fba0da289c74b683247e140127f543d5e4b605d11e7ee2ffd43c9666d7fd4'
+2023-08-14 18:28:40,669 [ 135490]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nacl._sodium ('/usr/lib/python3/dist-packages/nacl/_sodium.abi3.so')
+2023-08-14 18:28:40,675 [ 135496]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for nacl._sodium at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/5b62c0d1256b142b817b20df207449b120122a1ad585b05394fbad9c5517e28d'
+2023-08-14 18:28:40,738 [ 135559]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule _sodium.lib of nacl._sodium
+2023-08-14 18:28:40,877 [ 135698]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - netifaces ('/usr/lib/python3/dist-packages/netifaces.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,877 [ 135698]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for netifaces at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/63d9a11a64d5b9ee906d73168c3ae29c48526f87f39e1bd93d9a2cec934b84f6'
+2023-08-14 18:28:40,951 [ 135772]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nis ('/usr/lib/python3.11/lib-dynload/nis.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:40,958 [ 135779]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for nis at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/c0093958cef603582d2eb9e4a9ef74d78ac047f370197c32f5d07e5fece25df4'
+2023-08-14 18:28:41,034 [ 135855]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.11/lib-dynload/ossaudiodev.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,041 [ 135862]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for ossaudiodev at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/832e1a19a69d2d680975f10e0039aabbb1c11df288f4d482c0b0d72436ee290f'
+2023-08-14 18:28:41,109 [ 135930]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pcardext ('/usr/lib/python3/dist-packages/pcardext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,116 [ 135937]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pcardext at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/3d195cc636cb898699ae5e644640eb0b89d2a59466d623da11c314e14e175b65'
+2023-08-14 18:28:41,189 [ 136010]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pvectorc ('/usr/lib/python3/dist-packages/pvectorc.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,191 [ 136012]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pvectorc at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/d32b1251d517c09bc50f4fe27e9b266fdb17b917470cdeecef27f597bf35ceb6'
+2023-08-14 18:28:41,274 [ 136095]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss ('/usr/lib/python3/dist-packages/pysss.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,274 [ 136095]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pysss at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/42223458601f20259522a6731eb801cc79c903aa0845f31dabf4e8d691718138'
+2023-08-14 18:28:41,353 [ 136174]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss_murmur ('/usr/lib/python3/dist-packages/pysss_murmur.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,354 [ 136175]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for pysss_murmur at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/a21aba216c2cae7416b815b7f09a8d8fc7ea20a0dbcaef223745d8d4238f8539'
+2023-08-14 18:28:41,429 [ 136250]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - readline ('/usr/lib/python3.11/lib-dynload/readline.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,429 [ 136250]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for readline at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/947f72fef3449be7fff1801d1aee9f7b664f7c678f70528fc024b87769c07834'
+2023-08-14 18:28:41,508 [ 136329]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.graphics._renderPM ('/usr/lib/python3/dist-packages/reportlab/graphics/_renderPM.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,510 [ 136331]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for reportlab.graphics._renderPM at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/b7c7f6fca95f86662d5b678a9da6d499c99216192efdc85980ae1c923b18f02e'
+2023-08-14 18:28:41,594 [ 136415]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.lib._rl_accel ('/usr/lib/python3/dist-packages/reportlab/lib/_rl_accel.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,601 [ 136422]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for reportlab.lib._rl_accel at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/b24a028a6c3beed66fbcc4373411d6204106c0a1220a05cf18e9fd7a678728c2'
+2023-08-14 18:28:41,690 [ 136511]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - resource ('/usr/lib/python3.11/lib-dynload/resource.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,692 [ 136513]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for resource at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/91ecf42191f027e3a31e4cab29c711709bfc6a9412a5e4637ef5cda64df8b16e'
+2023-08-14 18:28:41,771 [ 136592]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - scanext ('/usr/lib/python3/dist-packages/scanext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,777 [ 136598]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for scanext at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/d8688ac906c9f09e6482cade3d6cc0bbe9793d2511099241ce0506f525e4432d'
+2023-08-14 18:28:41,851 [ 136672]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._daemon ('/usr/lib/python3/dist-packages/systemd/_daemon.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,852 [ 136673]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for systemd._daemon at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/17b0278952072683d7808e32bf6a34c036910f928d6bd1ba1834617dd94b9a06'
+2023-08-14 18:28:41,936 [ 136757]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._journal ('/usr/lib/python3/dist-packages/systemd/_journal.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:41,943 [ 136764]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for systemd._journal at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/af2438a8d6d8caabeae053611593bf53b214e58b6a3efe4ad05d45bd6245dc2e'
+2023-08-14 18:28:42,017 [ 136838]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._reader ('/usr/lib/python3/dist-packages/systemd/_reader.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,023 [ 136844]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for systemd._reader at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/f67752b4e634e560bd0020ab4e4ddc5a7c7a19a52eb805281e6959968976bb5a'
+2023-08-14 18:28:42,119 [ 136940]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.id128 ('/usr/lib/python3/dist-packages/systemd/id128.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,125 [ 136946]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for systemd.id128 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/987b267ae605c8128237de11264d9371789a7344fbb4e0a3f0446df668a53573'
+2023-08-14 18:28:42,206 [ 137027]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.login ('/usr/lib/python3/dist-packages/systemd/login.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,212 [ 137033]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for systemd.login at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/2ca95a2ea9e5c3551e122172649d36ba5c1fc12ba37b2509acde1ca1472d07ea'
+2023-08-14 18:28:42,290 [ 137111]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - termios ('/usr/lib/python3.11/lib-dynload/termios.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,297 [ 137118]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for termios at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/39997a69dff8aa3f05eb04d7fb78d7ede530b2daba4a76940b1a611fafdbddc3'
+2023-08-14 18:28:42,368 [ 137189]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.11/lib-dynload/xxlimited.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,374 [ 137195]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for xxlimited at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/3326a0cac0594377f32280af16edb09a5b9fbbc9f8fc75bbfc6be19a589a4e34'
+2023-08-14 18:28:42,452 [ 137273]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited_35 ('/usr/lib/python3.11/lib-dynload/xxlimited_35.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,452 [ 137273]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for xxlimited_35 at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/dda73cd27b371fe01b67a5040e861068effc2e0f6a189f4a184bee9805d22bec'
+2023-08-14 18:28:42,530 [ 137351]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - yaml._yaml ('/usr/lib/python3/dist-packages/yaml/_yaml.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:42,537 [ 137358]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Updating cache for yaml._yaml at '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/e28a973f841dcac4d2eb7e7d1bcff9b5c25fa469c12e402c9b393aa35d090ebb'
+2023-08-14 18:28:42,638 [ 137459]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Processing submodule cython_runtime of yaml._yaml
+2023-08-14 18:28:42,672 [ 137493]   INFO - #c.j.p.s.s.PySkeletonRefresher - Rebuilding skeletons for binaries took 14221 ms
+2023-08-14 18:28:42,819 [ 137640]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-14 18:28:42,820 [ 137641]   INFO - #c.j.p.p.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/packaging_tool.py list
+2023-08-14 18:28:43,293 [ 138114]   INFO - #c.j.p.s.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python311.zip
+2023-08-14 18:28:43,294 [ 138115]   INFO - #c.j.p.s.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095
+2023-08-14 18:28:43,294 [ 138115]   INFO - #c.j.p.s.PythonSdkUpdater - User skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /snap/pycharm-educational/57/plugins/python-ce/helpers/python-skeletons
+2023-08-14 18:28:43,295 [ 138116]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-14 18:28:43,296 [ 138117]   INFO - #c.j.p.s.s.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.11
+2023-08-14 18:28:43,296 [ 138117]   INFO - #c.j.p.s.s.DefaultPregeneratedSkeletonsProvider - Home path is /snap/pycharm-educational/57
+2023-08-14 18:28:43,309 [ 138130]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/generator3/__main__.py -d /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095 -s /usr/lib/python3.11:/usr/lib/python3.11/lib-dynload:/usr/local/lib/python3.11/dist-packages:/usr/lib/python3/dist-packages:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/fpdf2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ldap3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/regex:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/hdbcli:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/invoke:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passpy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pynput:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chevron:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/urllib3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/openpyxl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyflakes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/playsound:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-2020:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/opentracing:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pep8-naming:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname
+2023-08-14 18:28:43,515 [ 138336]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _abc ('built-in')
+2023-08-14 18:28:43,516 [ 138337]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ast ('built-in')
+2023-08-14 18:28:43,516 [ 138337]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bisect ('built-in')
+2023-08-14 18:28:43,516 [ 138337]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _blake2 ('built-in')
+2023-08-14 18:28:43,517 [ 138338]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs ('built-in')
+2023-08-14 18:28:43,517 [ 138338]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _collections ('built-in')
+2023-08-14 18:28:43,517 [ 138338]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _csv ('built-in')
+2023-08-14 18:28:43,517 [ 138338]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _datetime ('built-in')
+2023-08-14 18:28:43,518 [ 138339]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _elementtree ('built-in')
+2023-08-14 18:28:43,518 [ 138339]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _functools ('built-in')
+2023-08-14 18:28:43,519 [ 138340]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _heapq ('built-in')
+2023-08-14 18:28:43,520 [ 138341]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _imp ('built-in')
+2023-08-14 18:28:43,520 [ 138341]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _io ('built-in')
+2023-08-14 18:28:43,520 [ 138341]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _locale ('built-in')
+2023-08-14 18:28:43,521 [ 138342]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _md5 ('built-in')
+2023-08-14 18:28:43,522 [ 138343]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _opcode ('built-in')
+2023-08-14 18:28:43,522 [ 138343]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _operator ('built-in')
+2023-08-14 18:28:43,522 [ 138343]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _pickle ('built-in')
+2023-08-14 18:28:43,522 [ 138343]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixsubprocess ('built-in')
+2023-08-14 18:28:43,523 [ 138344]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _random ('built-in')
+2023-08-14 18:28:43,524 [ 138345]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha1 ('built-in')
+2023-08-14 18:28:43,524 [ 138345]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha256 ('built-in')
+2023-08-14 18:28:43,525 [ 138346]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha3 ('built-in')
+2023-08-14 18:28:43,525 [ 138346]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha512 ('built-in')
+2023-08-14 18:28:43,525 [ 138346]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _signal ('built-in')
+2023-08-14 18:28:43,526 [ 138347]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _socket ('built-in')
+2023-08-14 18:28:43,527 [ 138348]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sre ('built-in')
+2023-08-14 18:28:43,527 [ 138348]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _stat ('built-in')
+2023-08-14 18:28:43,527 [ 138348]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _statistics ('built-in')
+2023-08-14 18:28:43,528 [ 138349]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _string ('built-in')
+2023-08-14 18:28:43,529 [ 138350]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _struct ('built-in')
+2023-08-14 18:28:43,530 [ 138351]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _symtable ('built-in')
+2023-08-14 18:28:43,530 [ 138351]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _thread ('built-in')
+2023-08-14 18:28:43,531 [ 138352]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tokenize ('built-in')
+2023-08-14 18:28:43,532 [ 138353]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tracemalloc ('built-in')
+2023-08-14 18:28:43,533 [ 138354]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _warnings ('built-in')
+2023-08-14 18:28:43,533 [ 138354]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _weakref ('built-in')
+2023-08-14 18:28:43,533 [ 138354]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - array ('built-in')
+2023-08-14 18:28:43,533 [ 138354]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - atexit ('built-in')
+2023-08-14 18:28:43,535 [ 138356]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - binascii ('built-in')
+2023-08-14 18:28:43,535 [ 138356]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - builtins ('built-in')
+2023-08-14 18:28:43,535 [ 138356]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cmath ('built-in')
+2023-08-14 18:28:43,535 [ 138356]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - errno ('built-in')
+2023-08-14 18:28:43,536 [ 138357]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - faulthandler ('built-in')
+2023-08-14 18:28:43,536 [ 138357]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - fcntl ('built-in')
+2023-08-14 18:28:43,537 [ 138358]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gc ('built-in')
+2023-08-14 18:28:43,538 [ 138359]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - grp ('built-in')
+2023-08-14 18:28:43,538 [ 138359]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - itertools ('built-in')
+2023-08-14 18:28:43,538 [ 138359]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - marshal ('built-in')
+2023-08-14 18:28:43,538 [ 138359]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - math ('built-in')
+2023-08-14 18:28:43,540 [ 138361]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - posix ('built-in')
+2023-08-14 18:28:43,540 [ 138361]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pwd ('built-in')
+2023-08-14 18:28:43,540 [ 138361]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pyexpat ('built-in')
+2023-08-14 18:28:43,542 [ 138363]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - Copying cached stubs for pyexpat from '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/cache/76b9584817bb5e5fbe740f1e5a55a815f492e1adf9913ec9b189e9cf17474cda' to '/home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095'
+2023-08-14 18:28:43,591 [ 138412]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - select ('built-in')
+2023-08-14 18:28:43,592 [ 138413]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - spwd ('built-in')
+2023-08-14 18:28:43,593 [ 138414]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - sys ('built-in')
+2023-08-14 18:28:43,593 [ 138414]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - syslog ('built-in')
+2023-08-14 18:28:43,594 [ 138415]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - time ('built-in')
+2023-08-14 18:28:43,594 [ 138415]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - unicodedata ('built-in')
+2023-08-14 18:28:43,594 [ 138415]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxsubtype ('built-in')
+2023-08-14 18:28:43,596 [ 138417]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - zlib ('built-in')
+2023-08-14 18:28:43,596 [ 138417]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imaging ('/usr/lib/python3/dist-packages/PIL/_imaging.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,596 [ 138417]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingcms ('/usr/lib/python3/dist-packages/PIL/_imagingcms.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,597 [ 138418]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingft ('/usr/lib/python3/dist-packages/PIL/_imagingft.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,597 [ 138418]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmath ('/usr/lib/python3/dist-packages/PIL/_imagingmath.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,598 [ 138419]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmorph ('/usr/lib/python3/dist-packages/PIL/_imagingmorph.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,598 [ 138419]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._webp ('/usr/lib/python3/dist-packages/PIL/_webp.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,599 [ 138420]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.11/lib-dynload/_asyncio.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,599 [ 138420]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.11/lib-dynload/_bz2.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,600 [ 138421]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _cffi_backend ('/usr/lib/python3/dist-packages/_cffi_backend.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,600 [ 138421]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.11/lib-dynload/_codecs_cn.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,601 [ 138422]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.11/lib-dynload/_codecs_hk.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,601 [ 138422]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.11/lib-dynload/_codecs_iso2022.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,602 [ 138423]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.11/lib-dynload/_codecs_jp.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,603 [ 138424]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.11/lib-dynload/_codecs_kr.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,603 [ 138424]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.11/lib-dynload/_codecs_tw.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,603 [ 138424]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.11/lib-dynload/_contextvars.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,603 [ 138424]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.11/lib-dynload/_crypt.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,604 [ 138425]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,605 [ 138426]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.11/lib-dynload/_ctypes_test.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,605 [ 138426]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.11/lib-dynload/_curses.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,605 [ 138426]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.11/lib-dynload/_curses_panel.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,606 [ 138427]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.11/lib-dynload/_dbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,607 [ 138428]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_bindings ('/usr/lib/python3/dist-packages/_dbus_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,607 [ 138428]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_glib_bindings ('/usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,607 [ 138428]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.11/lib-dynload/_decimal.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,608 [ 138429]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.11/lib-dynload/_gdbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,608 [ 138429]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.11/lib-dynload/_hashlib.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,609 [ 138430]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _json ('/usr/lib/python3.11/lib-dynload/_json.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,609 [ 138430]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.11/lib-dynload/_lsprof.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,610 [ 138431]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.11/lib-dynload/_lzma.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,610 [ 138431]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.11/lib-dynload/_multibytecodec.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,611 [ 138432]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.11/lib-dynload/_multiprocessing.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,611 [ 138432]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.11/lib-dynload/_posixshmem.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,612 [ 138433]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.11/lib-dynload/_queue.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,612 [ 138433]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.11/lib-dynload/_sqlite3.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,612 [ 138433]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.11/lib-dynload/_ssl.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,613 [ 138434]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.11/lib-dynload/_testbuffer.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,614 [ 138435]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.11/lib-dynload/_testcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,614 [ 138435]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testclinic ('/usr/lib/python3.11/lib-dynload/_testclinic.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,614 [ 138435]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.11/lib-dynload/_testimportmultiple.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,615 [ 138436]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.11/lib-dynload/_testinternalcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,615 [ 138436]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.11/lib-dynload/_testmultiphase.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,615 [ 138436]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _typing ('/usr/lib/python3.11/lib-dynload/_typing.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,617 [ 138438]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.11/lib-dynload/_uuid.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,617 [ 138438]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.11/lib-dynload/_xxsubinterpreters.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,617 [ 138438]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.11/lib-dynload/_xxtestfuzz.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,618 [ 138439]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _zoneinfo ('/usr/lib/python3.11/lib-dynload/_zoneinfo.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,618 [ 138439]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_inst ('/usr/lib/python3/dist-packages/apt_inst.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,618 [ 138439]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_pkg ('/usr/lib/python3/dist-packages/apt_pkg.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,620 [ 138441]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.11/lib-dynload/audioop.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,620 [ 138441]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - bcrypt._bcrypt ('/usr/lib/python3/dist-packages/bcrypt/_bcrypt.abi3.so')
+2023-08-14 18:28:43,620 [ 138441]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - brlapi ('/usr/lib/python3/dist-packages/brlapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,620 [ 138441]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cairo._cairo ('/usr/lib/python3/dist-packages/cairo/_cairo.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,621 [ 138442]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._openssl ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_openssl.abi3.so')
+2023-08-14 18:28:43,622 [ 138443]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._rust ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_rust.abi3.so')
+2023-08-14 18:28:43,622 [ 138443]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cups ('/usr/lib/python3/dist-packages/cups.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,622 [ 138443]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cupsext ('/usr/lib/python3/dist-packages/cupsext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,623 [ 138444]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - duplicity._librsync ('/usr/lib/python3/dist-packages/duplicity/_librsync.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,623 [ 138444]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gi._gi ('/usr/lib/python3/dist-packages/gi/_gi.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,624 [ 138445]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - hpmudext ('/usr/lib/python3/dist-packages/hpmudext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,625 [ 138446]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - markupsafe._speedups ('/usr/lib/python3/dist-packages/markupsafe/_speedups.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,625 [ 138446]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.11/lib-dynload/mmap.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,625 [ 138446]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nacl._sodium ('/usr/lib/python3/dist-packages/nacl/_sodium.abi3.so')
+2023-08-14 18:28:43,626 [ 138447]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - netifaces ('/usr/lib/python3/dist-packages/netifaces.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,626 [ 138447]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nis ('/usr/lib/python3.11/lib-dynload/nis.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,627 [ 138448]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.11/lib-dynload/ossaudiodev.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,628 [ 138449]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pcardext ('/usr/lib/python3/dist-packages/pcardext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,628 [ 138449]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pvectorc ('/usr/lib/python3/dist-packages/pvectorc.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,628 [ 138449]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss ('/usr/lib/python3/dist-packages/pysss.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,629 [ 138450]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss_murmur ('/usr/lib/python3/dist-packages/pysss_murmur.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,629 [ 138450]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - readline ('/usr/lib/python3.11/lib-dynload/readline.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,630 [ 138451]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.graphics._renderPM ('/usr/lib/python3/dist-packages/reportlab/graphics/_renderPM.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,631 [ 138452]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.lib._rl_accel ('/usr/lib/python3/dist-packages/reportlab/lib/_rl_accel.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,631 [ 138452]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - resource ('/usr/lib/python3.11/lib-dynload/resource.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,631 [ 138452]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - scanext ('/usr/lib/python3/dist-packages/scanext.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,631 [ 138452]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._daemon ('/usr/lib/python3/dist-packages/systemd/_daemon.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,633 [ 138454]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._journal ('/usr/lib/python3/dist-packages/systemd/_journal.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,633 [ 138454]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._reader ('/usr/lib/python3/dist-packages/systemd/_reader.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,634 [ 138455]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.id128 ('/usr/lib/python3/dist-packages/systemd/id128.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,634 [ 138455]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.login ('/usr/lib/python3/dist-packages/systemd/login.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,634 [ 138455]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - termios ('/usr/lib/python3.11/lib-dynload/termios.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,635 [ 138456]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.11/lib-dynload/xxlimited.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,636 [ 138457]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited_35 ('/usr/lib/python3.11/lib-dynload/xxlimited_35.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,636 [ 138457]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - yaml._yaml ('/usr/lib/python3/dist-packages/yaml/_yaml.cpython-311-x86_64-linux-gnu.so')
+2023-08-14 18:28:43,655 [ 138476]   INFO - #c.j.p.s.s.PySkeletonRefresher - Rebuilding skeletons for binaries took 358 ms
+2023-08-14 18:28:43,717 [ 138538]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-14 18:28:43,718 [ 138539]   INFO - #c.j.p.p.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/packaging_tool.py list
+2023-08-14 18:28:49,264 [ 144085]   INFO - #c.i.u.i.UnindexedFilesUpdater - Finished for ThisIsCodingTestWithPython. Unindexed files update took 18948ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:28:49,281 [ 144102]   INFO - #c.i.u.i.FileBasedIndexProjectHandler - Reindexing refreshed files of ThisIsCodingTestWithPython : 443 to update, calculated in 2ms
+2023-08-14 18:28:49,282 [ 144103]   INFO - #c.i.u.i.FileBasedIndexProjectHandler - Using 4 threads for indexing
+2023-08-14 18:28:49,943 [ 144764]   INFO - #c.i.d.PerformanceWatcherImpl - Reindexing refreshed files of ThisIsCodingTestWithPython took 662ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-14 18:30:50,640 [ 265461]   INFO - #o.i.p.m.s.MarkdownSettings - Migrating Markdown settings
+2023-08-14 18:31:36,416 [ 311237]   INFO - #c.i.a.o.PathMacrosImpl - Saved path macros: {}
+2023-08-14 18:36:40,474 [ 615295]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillTimeSpentEventsHandler)
+2023-08-14 18:36:40,475 [ 615296]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillFrontendEventsHandler)
+2023-08-14 18:44:39,841 [1094662]   INFO - #c.i.i.s.e.u.EventLogExternalUploader - Started external process for uploading event log
+2023-08-14 18:44:39,969 [1094790]   INFO - #c.j.r.f.FollowMeManager - Unregister user 0:'lee' with ClientId=ClientId(value=Host)
+2023-08-14 18:44:39,987 [1094808]   INFO - c.j.r.f.u.RdCoroutineScope - RdCoroutineHost has been reset
+2023-08-14 18:44:39,990 [1094811]   INFO - c.j.r.f.u.RdCoroutineScope - RdCoroutineHost disposed
+2023-08-14 18:44:40,005 [1094826]   INFO - #o.j.i.BuiltInServer - web server stopped
+2023-08-14 18:44:40,008 [1094829]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Watcher terminated with exit code 0
+2023-08-14 18:44:40,009 [1094830]   INFO - #c.j.r.f.FollowMeManager - Unregister user 0:'lee' with ClientId=ClientId(value=Host)
+2023-08-14 18:44:40,010 [1094831]   INFO - #c.i.u.i.FileBasedIndexImpl - START INDEX SHUTDOWN
+2023-08-14 18:44:40,050 [1094871]   INFO - #c.i.p.s.StubIndexImpl - StubIndexExtension-s were unloaded
+2023-08-14 18:44:40,051 [1094872]   INFO - #c.i.p.s.SerializationManagerImpl - Start shutting down /home/lee/.cache/JetBrains/PyCharmEdu2022.2/index/rep.names
+2023-08-14 18:44:40,051 [1094872]   INFO - #c.i.p.s.SerializationManagerImpl - Finished shutting down /home/lee/.cache/JetBrains/PyCharmEdu2022.2/index/rep.names
+2023-08-14 18:44:40,079 [1094900]   INFO - #c.i.u.i.FileBasedIndexImpl - END INDEX SHUTDOWN
+2023-08-14 18:44:40,081 [1094902]   INFO - #c.i.o.v.n.p.PersistentFSImpl - VFS dispose started
+2023-08-14 18:44:40,085 [1094906]   INFO - #c.i.o.v.n.p.PersistentFSImpl - VFS dispose completed
+2023-08-14 18:44:40,085 [1094906]   INFO - #c.i.o.f.i.FileTypeDetectionService - 1192 auto-detected files. Detection took 521 ms
+2023-08-15 00:47:53,151 [      6]   INFO - #c.i.i.StartupUtil - ------------------------------------------------------ IDE STARTED ------------------------------------------------------
+2023-08-15 00:47:53,227 [     82]   INFO - #c.i.i.p.PluginManager - Using cached broken plugins file
+2023-08-15 00:47:53,296 [    151]   INFO - #c.i.i.StartupUtil - JNA library (64-bit) loaded in 72 ms
+2023-08-15 00:47:53,378 [    233]   INFO - #c.i.i.StartupUtil - IDE: PyCharm (build #PE-222.4345.35, 26 Oct 2022 23:27)
+2023-08-15 00:47:53,382 [    237]   INFO - #c.i.i.StartupUtil - OS: Linux (6.2.0-27-generic, amd64)
+2023-08-15 00:47:53,386 [    241]   INFO - #c.i.i.StartupUtil - JRE: 17.0.4.1+7-b469.62 (JetBrains s.r.o.)
+2023-08-15 00:47:53,389 [    244]   INFO - #c.i.i.StartupUtil - JVM: 17.0.4.1+7-b469.62 (OpenJDK 64-Bit Server VM)
+2023-08-15 00:47:53,392 [    247]   INFO - #c.i.i.StartupUtil - PID: 4243
+2023-08-15 00:47:53,969 [    824]   INFO - #c.i.i.StartupUtil - WM detected: GNOME Shell, desktop: ubuntu:GNOME
+2023-08-15 00:47:53,974 [    829]   INFO - #c.i.i.StartupUtil - JVM options: [-Xms128m, -Xmx750m, -XX:ReservedCodeCacheSize=512m, -XX:+UseG1GC, -XX:SoftRefLRUPolicyMSPerMB=50, -XX:CICompilerCount=2, -XX:+HeapDumpOnOutOfMemoryError, -XX:-OmitStackTraceInFastThrow, -XX:+IgnoreUnrecognizedVMOptions, -XX:CompileCommand=exclude,com/intellij/openapi/vfs/impl/FilePartNodeRoot,trieDescend, -ea, -Dsun.io.useCanonCaches=false, -Dsun.java2d.metal=true, -Djbr.catch.SIGABRT=true, -Djdk.http.auth.tunneling.disabledSchemes="", -Djdk.attach.allowAttachSelf=true, -Djdk.module.illegalAccess.silent=true, -Dkotlinx.coroutines.debug=off, -Dsun.tools.attach.tmp.only=true, -Xmx1951m, -XX:ErrorFile=/home/lee/java_error_in_pycharm_%p.log, -XX:HeapDumpPath=/home/lee/java_error_in_pycharm_.hprof, -Djb.vmOptionsFile=/home/lee/.config/JetBrains/PyCharmEdu2022.2/pycharm64.vmoptions, -Djava.system.class.loader=com.intellij.util.lang.PathClassLoader, -Didea.strict.classpath=true, -Didea.vendor.name=JetBrains, -Didea.paths.selector=PyCharmEdu2022.2, -Didea.platform.prefix=PyCharmEdu, -Dsplash=true, --add-opens=java.base/java.io=ALL-UNNAMED, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/java.lang.reflect=ALL-UNNAMED, --add-opens=java.base/java.net=ALL-UNNAMED, --add-opens=java.base/java.nio=ALL-UNNAMED, --add-opens=java.base/java.nio.charset=ALL-UNNAMED, --add-opens=java.base/java.text=ALL-UNNAMED, --add-opens=java.base/java.time=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent=ALL-UNNAMED, --add-opens=java.base/java.util.concurrent.atomic=ALL-UNNAMED, --add-opens=java.base/jdk.internal.vm=ALL-UNNAMED, --add-opens=java.base/sun.nio.ch=ALL-UNNAMED, --add-opens=java.base/sun.security.ssl=ALL-UNNAMED, --add-opens=java.base/sun.security.util=ALL-UNNAMED, --add-opens=java.desktop/com.sun.java.swing.plaf.gtk=ALL-UNNAMED, --add-opens=java.desktop/java.awt=ALL-UNNAMED, --add-opens=java.desktop/java.awt.dnd.peer=ALL-UNNAMED, --add-opens=java.desktop/java.awt.event=ALL-UNNAMED, --add-opens=java.desktop/java.awt.image=ALL-UNNAMED, --add-opens=java.desktop/java.awt.peer=ALL-UNNAMED, --add-opens=java.desktop/javax.swing=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.plaf.basic=ALL-UNNAMED, --add-opens=java.desktop/javax.swing.text.html=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.X11=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.datatransfer=ALL-UNNAMED, --add-opens=java.desktop/sun.awt.image=ALL-UNNAMED, --add-opens=java.desktop/sun.awt=ALL-UNNAMED, --add-opens=java.desktop/sun.font=ALL-UNNAMED, --add-opens=java.desktop/sun.java2d=ALL-UNNAMED, --add-opens=java.desktop/sun.swing=ALL-UNNAMED, --add-opens=jdk.attach/sun.tools.attach=ALL-UNNAMED, --add-opens=jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED, --add-opens=jdk.internal.jvmstat/sun.jvmstat.monitor=ALL-UNNAMED, --add-opens=jdk.jdi/com.sun.tools.jdi=ALL-UNNAMED]
+2023-08-15 00:47:53,979 [    834]   INFO - #c.i.i.StartupUtil - args: []
+2023-08-15 00:47:53,983 [    838]   INFO - #c.i.i.StartupUtil - library path: /usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+2023-08-15 00:47:53,986 [    841]   INFO - #c.i.i.StartupUtil - boot library path: /snap/pycharm-educational/57/jbr/lib
+2023-08-15 00:47:54,066 [    921]   INFO - #c.i.i.StartupUtil - locale=ko_KR JNU=UTF-8 file.encoding=UTF-8
+  idea.config.path=/home/lee/.config/JetBrains/PyCharmEdu2022.2
+  idea.system.path=/home/lee/.cache/JetBrains/PyCharmEdu2022.2
+  idea.plugins.path=/home/lee/.local/share/JetBrains/PyCharmEdu2022.2
+  idea.log.path=/home/lee/.cache/JetBrains/PyCharmEdu2022.2/log
+2023-08-15 00:47:54,101 [    956]   INFO - #c.i.i.StartupUtil - CPU cores: 16; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@6e863282[Running, parallelism = 15, size = 15, active = 2, running = 2, steals = 40, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@697e73ab
+2023-08-15 00:47:54,375 [   1230]   INFO - #c.i.i.p.PluginManager - Module intellij.grazie.java is not enabled because dependency com.intellij.java is not available
+Module sql-core is not enabled because dependency com.intellij.database is not available
+Module Edu-Php is not enabled because dependency com.jetbrains.php is not available
+Module Edu-Go is not enabled because dependency org.jetbrains.plugins.go is not available
+Module Edu-Cpp is not enabled because dependency com.intellij.clion is not available
+Module Edu-Rust is not enabled because dependency org.rust.lang is not available
+Module Edu-JavaScript is not enabled because dependency JavaScript is not available
+Module Edu-Python-Pro is not enabled because dependency Pythonid is not available
+Module jvm-core is not enabled because dependency com.intellij.modules.java is not available
+Module sql-jvm is not enabled because dependency sql-core is not available
+Module Edu-Android is not enabled because dependency jvm-core is not available
+Module Edu-Scala is not enabled because dependency jvm-core is not available
+Module Edu-Kotlin is not enabled because dependency jvm-core is not available
+Module Edu-Sql-Kotlin is not enabled because dependency sql-core is not available
+Module Edu-Java is not enabled because dependency jvm-core is not available
+Module Edu-Sql-Java is not enabled because dependency sql-core is not available
+2023-08-15 00:47:54,423 [   1278]   INFO - #c.i.i.p.PluginManager - Loaded bundled plugins: Images (222.4345.35), Shell Script (222.4345.35), com.intellij.dev (222.4345.35), Mercurial (222.4345.35), Machine Learning in Search Everywhere (222.4345.35), Shared Indexes for Python (222.4345.35), GitHub (222.4345.35), PyCharm Educational Customization (222.4345.35), Configuration Script (222.4345.35), YAML (222.4345.35), Subversion (222.4345.35), Copyright (222.4345.35), Shared Indexes for Python Packages (222.4345.35), Monokai Color Scheme (222.4345.35), IDEA CORE (222.4345.35), Toml (222.4345.35), IDE Features Trainer (222.4345.35), Python Community Edition (222.4345.35), Twilight Color Scheme (222.4345.35), ReStructuredText (222.4345.35), IntelliLang (222.4345.35), Git (222.4345.35), WarmNeon Color Scheme (222.4345.35), IDE Features Trainer: Git Lessons (222.4345.35), Settings Repository (222.4345.35), Code With Me (222.4345.35), EduTools (2022.10-2022.2-1334), Emoji Picker (222.4345.35), Task Management (222.4345.35), Github Color Scheme (222.4345.35), Markdown (222.4345.35), Terminal (222.4345.35), Properties (222.4345.35), Shared Indexes (222.4345.35), Machine Learning Code Completion (222.4345.35), EditorConfig (222.4345.35), JetBrains Marketplace Licensing Support (222.4345.35), TextMate Bundles (222.4345.35), Projector Libraries for Code With Me and Remote Development (222.4345.35), Grazie (222.4345.35)
+2023-08-15 00:47:57,003 [   3858]   INFO - #c.i.a.o.PathMacrosImpl - Loaded path macros: {}
+2023-08-15 00:47:57,058 [   3913]   INFO - #o.j.i.BuiltInServerManager - built-in server started, port 63342
+2023-08-15 00:47:57,296 [   4151]   INFO - #c.i.u.i.FilePageCache - lower=100; upper=500; buffer=10; max=1932
+2023-08-15 00:47:57,562 [   4417]   INFO - #c.i.o.e.c.i.AppFontOptions - Font setting migration: JetBrains Mono -> [JetBrains Mono, Regular, Bold]
+2023-08-15 00:47:57,792 [   4647]   INFO - #c.i.o.v.n.p.PersistentFSConnector - 169 ms to load free records and inverted name index
+2023-08-15 00:47:58,459 [   5314]   INFO - #c.i.u.n.s.CertificateManager - Default SSL context initialized
+2023-08-15 00:47:59,868 [   6723]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillTimeSpentEventsHandler)
+2023-08-15 00:47:59,872 [   6727]   INFO - #c.j.e.l.s.h.m.HyperskillMetricsScheduler - No data to send (HyperskillFrontendEventsHandler)
+2023-08-15 00:47:59,927 [   6782]   INFO - #c.i.i.s.p.i.SharedIndexMainZipStorage - Shared Indexes Storage is opened and empty
+2023-08-15 00:48:00,578 [   7433]   INFO - #c.i.o.a.Experiments - Experimental features enabled for user: wsl.p9.support, wsl.prefer.p9.support, wsl.p9.show.roots.in.file.chooser, wsl.execute.with.wsl.exe, linux.native.menu, recent.and.edited.files.together, show.create.new.element.in.popup, search.everywhere.mixed.results, new.project.wizard, editor.reader.mode, new.large.text.file.viewer, terminal.shell.command.handling, edu.course.hyperskill.problems.by.topic
+2023-08-15 00:48:00,648 [   7503]   INFO - #c.i.o.w.i.GlobalMenuLinux - Start glib main loop in thread: GlobalMenuLinux loop
+2023-08-15 00:48:00,693 [   7548]   INFO - #c.j.r.p.c.t.i.DistributedTestHost - Host address=localhost/127.0.0.1
+2023-08-15 00:48:00,699 [   7554]   INFO - #c.i.o.w.i.GlobalMenuLinux - Closed dbus-service 'com.canonical.AppMenu.Registrar'
+2023-08-15 00:48:00,888 [   7743]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Starting file watcher: /snap/pycharm-educational/57/bin/fsnotifier
+2023-08-15 00:48:00,985 [   7840]   INFO - #c.i.o.v.i.l.NativeFileWatcherImpl - Native file watcher is operational.
+2023-08-15 00:48:01,001 [   7856]   INFO - STDOUT - Info  | RdCoroutineScope          | 33:JobScheduler FJ pool 8/15 | RdCoroutineHost overridden 
+2023-08-15 00:48:01,270 [   8125]   INFO - #c.i.p.c.ProjectCodeStyleSettingsManager - Initialized from default code style settings.
+2023-08-15 00:48:01,891 [   8746]   INFO - #c.i.o.w.i.GlobalMenuLinux - created instance of GlobalMenuLinux for xid=0x800050
+2023-08-15 00:48:02,737 [   9592]   INFO - #c.i.w.i.i.WorkspaceModelImpl - Load workspace model from cache in 2070 ms
+2023-08-15 00:48:03,151 [  10006]   INFO - #c.j.r.p.c.B.L - sessionStatus: null
+2023-08-15 00:48:03,158 [  10013]   INFO - #c.j.r.p.c.B.L - freeSessionRemainingTimeMs: null null
+2023-08-15 00:48:03,421 [  10276]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-15 00:48:03,540 [  10395]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-15 00:48:03,544 [  10399]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-15 00:48:03,548 [  10403]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Visual Studio" not found PluginDescriptor(name=IDEA CORE, id=com.intellij, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/lib, version=222.4345.35, package=com.intellij.feedback, isBundled=true)
+2023-08-15 00:48:03,936 [  10791]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2023-08-15 00:48:04,019 [  10874]   INFO - c.i.u.i.FileBasedIndexDataInitialization - Index data initialization done: 4523 ms. Initialized indexes: [FilenameIndex, FrameworkDetectionIndex, TodoIndex, IdIndex, filetypes, Stubs, Trigram.Index, fileIncludes, DomFileIndex, RelaxSymbolIndex, XmlTagNames, XmlNamespaces, html5.custom.attributes.index, SchemaTypeInheritance, json.file.root.values, editorconfig.index.name, xmlProperties, yaml.keys.name, Py.module.name, Py.setuptools.namespace].
+2023-08-15 00:48:04,205 [  11060]   INFO - c.i.p.s.StubIndexImpl$StubIndexInitialization - Index data initialization done: 183 ms. Initialized stub indexes: {Py.class.super, Py.class.shortNameInsensitive, Py.function.shortName, Py.class.shortName, dom.elementClass, Python.Decorator, Py.class.attributes, Py.variable.shortName, Py.module.attribute, properties.index, markdown.header, dom.namespaceKey}.
+2023-08-15 00:48:04,458 [  11313]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=GitHub, id=org.jetbrains.plugins.github, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/github, version=222.4345.35, package=org.jetbrains.plugins.github, isBundled=true)
+2023-08-15 00:48:04,484 [  11339]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "Eclipse" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/python-ce, version=222.4345.35, package=null, isBundled=true)
+2023-08-15 00:48:04,487 [  11342]   WARN - #c.i.o.a.i.ActionManagerImpl - keymap "NetBeans 6.5" not found PluginDescriptor(name=Python Community Edition, id=PythonCore, descriptorPath=plugin.xml, path=/snap/pycharm-educational/57/plugins/python-ce, version=222.4345.35, package=null, isBundled=true)
+2023-08-15 00:48:05,548 [  12403]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show old main toolbar: false; show old navigation bar: false
+2023-08-15 00:48:05,551 [  12406]   INFO - #c.i.i.n.e.NewToolbarRootPaneExtension - Show new main toolbar: false
+2023-08-15 00:48:10,104 [  16959]   INFO - #c.i.o.u.i.UpdateCheckerService - channel: release
+2023-08-15 00:48:10,601 [  17456]   INFO - #c.i.o.e.s.p.m.ExternalProjectsDataStorage - Load external projects data in 6 millis (read time: 5)
+2023-08-15 00:48:11,180 [  18035]   INFO - #c.j.p.p.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/packaging_tool.py list
+2023-08-15 00:48:11,553 [  18408]   INFO - #c.i.i.s.p.i.SharedIndexChunkConfigurationImpl - Chunk bundled-python-sdk-864c6d827748-5624bcb7aad9-com.jetbrains.pycharm.edu.sharedIndexes.bundled-PE-222.4345.35 is registered for project 'ThisIsCodingTestWithPython: matching: (fb=16, stub=12), incompatible: (fb=0, stub=0), unknown: (fb=9, stub=9), 
+2023-08-15 00:48:12,432 [  19287]   INFO - #c.i.i.s.p.i.BundledSharedIndexPostStartupActivity - Attached 1 pre-built shared indexes: bundled-python-sdk-864c6d827748-5624bcb7aad9-com.jetbrains.pycharm.edu.sharedIndexes.bundled-PE-222.4345.35
+2023-08-15 00:48:12,594 [  19449]   INFO - #c.i.i.s.IdeStartupScripts - 0 startup script(s) found
+2023-08-15 00:48:13,172 [  20027]   INFO - #c.i.d.PerformanceWatcherImpl - Post-startup activities under progress took 3094ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-15 00:48:13,179 [  20034]   INFO - #c.i.i.StartupUtil - notify that start-up thread is free
+2023-08-15 00:48:13,850 [  20705]   INFO - #c.j.r.f.FollowMeManager - Register new user 0:'lee' with ClientId=ClientId(value=Host)
+2023-08-15 00:48:17,090 [  23945]   INFO - #c.i.o.f.i.FileEditorManagerImpl - Project opening took 16812 ms
+2023-08-15 00:48:18,317 [  25172]   INFO - #c.i.u.i.UnindexedFilesUpdater - Started scanning for indexing of ThisIsCodingTestWithPython. Reason: On project open
+2023-08-15 00:48:18,336 [  25191]   INFO - #c.i.u.i.UnindexedFilesUpdater - Performing delayed pushing properties tasks for ThisIsCodingTestWithPython took 15ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-15 00:48:18,418 [  25273]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning of ThisIsCodingTestWithPython uses 15 scanning threads
+2023-08-15 00:48:19,873 [  26728]   INFO - #c.j.r.p.c.CodeWithMeCleanup - running activity to cleanup old thin clients... Root path is '/home/lee/.cache/JetBrains'. JvmStartTimeMs=1692028072650
+2023-08-15 00:48:19,887 [  26742]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client system folders to check
+2023-08-15 00:48:19,891 [  26746]   INFO - #c.j.r.p.c.CodeWithMeCleanup - found 0 Code With Me client config folders to check
+2023-08-15 00:48:19,902 [  26757]   INFO - #c.j.r.p.c.CodeWithMeCleanup - keep only [] major versions
+2023-08-15 00:48:20,349 [  27204]   INFO - #c.j.p.s.PythonSdkUpdater - Bogus sys.path entry /usr/lib/python311.zip
+2023-08-15 00:48:20,521 [  27376]   INFO - #c.j.p.s.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095
+2023-08-15 00:48:20,524 [  27379]   INFO - #c.j.p.s.PythonSdkUpdater - User skeletons directory for SDK Python 3.11 (/usr/bin/python3.11)): /snap/pycharm-educational/57/plugins/python-ce/helpers/python-skeletons
+2023-08-15 00:48:20,535 [  27390]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-15 00:48:20,546 [  27401]   INFO - #c.j.p.s.s.PySkeletonRefresher - Refreshing skeletons for /usr/bin/python3.11
+2023-08-15 00:48:20,564 [  27419]   INFO - #c.j.p.s.s.DefaultPregeneratedSkeletonsProvider - Home path is /snap/pycharm-educational/57
+2023-08-15 00:48:20,585 [  27440]   INFO - #c.i.w.i.i.j.s.DelayedProjectSynchronizer - Workspace model loaded from cache. Syncing real project state into workspace model in 477 ms. Thread[ApplicationImpl pooled thread 11,4,main]
+2023-08-15 00:48:20,650 [  27505]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/generator3/__main__.py -d /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_stubs/-32419095 -s /usr/lib/python3.11:/usr/lib/python3.11/lib-dynload:/usr/local/lib/python3.11/dist-packages:/usr/lib/python3/dist-packages:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stdlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/six:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/boto:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytz:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toml:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/annoy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/babel:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/emoji:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/first:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/fpdf2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ldap3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/polib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/redis:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/regex:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/retry:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ujson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pillow:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyYAML:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/bleach:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/caldav:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docopt:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/enum34:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/hdbcli:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/invoke:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passpy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pycurl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pynput:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pysftp:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/stripe:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/xxhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/PyMySQL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/appdirs:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/certifi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chardet:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/chevron:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/passlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyaudio:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyvmomi:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/slumber:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tzlocal:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/urllib3:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/vobject:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Markdown:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Pygments:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aiofiles:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/colorama:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/croniter:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/docutils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/filelock:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/html5lib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/httplib2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jmespath:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/oauthlib:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/openpyxl:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/paramiko:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/psycopg2:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyflakes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/requests:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/selenium:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/tabulate:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/toposort:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/waitress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/braintree:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/decorator:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/freezegun:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ipaddress:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/playsound:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyOpenSSL:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyRFC3339:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/termcolor:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/ttkthemes:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/typed-ast:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Deprecated:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-Cors:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Send2Trash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cachetools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/commonmark:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dateparser:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/frozendict:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/jsonschema:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pyfarmhash:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/setuptools:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/simplejson:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/JACK-Client:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/contextvars:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/dataclasses:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/entrypoints:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-2020:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mysqlclient:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/opentracing:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pep8-naming:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/prettytable:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-nmap:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/atomicwrites:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/aws-xray-sdk:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/cryptography:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/editdistance:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/DateTimeRange:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports_abc:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/click-spinner:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/humanfriendly:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-gflags:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/beautifulsoup4:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/characteristic:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-bugbear:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-slugify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/singledispatch:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-simplify:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/python-dateutil:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/Flask-SQLAlchemy:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-plugin-utils:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-rst-docstrings:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/flake8-typing-imports:/snap/pycharm-educational/57/plugins/python-ce/helpers/typeshed/stubs/backports.ssl_match_hostname
+2023-08-15 00:48:21,108 [  27963]   INFO - #c.i.o.a.i.PopupMenuPreloader - 15689 ms since showing to preload popup menu 'File' at 'MainMenu' in 520 ms
+2023-08-15 00:48:21,229 [  28084]   INFO - #c.i.o.a.i.PopupMenuPreloader - 15820 ms since showing to preload popup menu 'Edit' at 'MainMenu' in 595 ms
+2023-08-15 00:48:21,315 [  28170]   INFO - #c.i.o.a.i.PopupMenuPreloader - 15906 ms since showing to preload popup menu 'View' at 'MainMenu' in 680 ms
+2023-08-15 00:48:21,458 [  28313]   INFO - #c.i.o.a.i.PopupMenuPreloader - 16048 ms since showing to preload popup menu 'Navigate' at 'MainMenu' in 822 ms
+2023-08-15 00:48:21,551 [  28406]   INFO - #c.i.o.a.i.PopupMenuPreloader - 16142 ms since showing to preload popup menu 'Code' at 'MainMenu' in 916 ms
+2023-08-15 00:48:21,623 [  28478]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _abc ('built-in')
+2023-08-15 00:48:21,641 [  28496]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ast ('built-in')
+2023-08-15 00:48:21,645 [  28500]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bisect ('built-in')
+2023-08-15 00:48:21,649 [  28504]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _blake2 ('built-in')
+2023-08-15 00:48:21,652 [  28507]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs ('built-in')
+2023-08-15 00:48:21,656 [  28511]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _collections ('built-in')
+2023-08-15 00:48:21,660 [  28515]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _csv ('built-in')
+2023-08-15 00:48:21,664 [  28519]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _datetime ('built-in')
+2023-08-15 00:48:21,667 [  28522]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _elementtree ('built-in')
+2023-08-15 00:48:21,669 [  28524]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _functools ('built-in')
+2023-08-15 00:48:21,671 [  28526]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _heapq ('built-in')
+2023-08-15 00:48:21,673 [  28528]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _imp ('built-in')
+2023-08-15 00:48:21,676 [  28531]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _io ('built-in')
+2023-08-15 00:48:21,678 [  28533]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _locale ('built-in')
+2023-08-15 00:48:21,680 [  28535]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _md5 ('built-in')
+2023-08-15 00:48:21,682 [  28537]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _opcode ('built-in')
+2023-08-15 00:48:21,686 [  28541]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _operator ('built-in')
+2023-08-15 00:48:21,689 [  28544]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _pickle ('built-in')
+2023-08-15 00:48:21,691 [  28546]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixsubprocess ('built-in')
+2023-08-15 00:48:21,693 [  28548]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _random ('built-in')
+2023-08-15 00:48:21,695 [  28550]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha1 ('built-in')
+2023-08-15 00:48:21,697 [  28552]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha256 ('built-in')
+2023-08-15 00:48:21,699 [  28554]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha3 ('built-in')
+2023-08-15 00:48:21,700 [  28555]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sha512 ('built-in')
+2023-08-15 00:48:21,702 [  28557]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _signal ('built-in')
+2023-08-15 00:48:21,705 [  28560]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _socket ('built-in')
+2023-08-15 00:48:21,706 [  28561]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sre ('built-in')
+2023-08-15 00:48:21,708 [  28563]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _stat ('built-in')
+2023-08-15 00:48:21,710 [  28565]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _statistics ('built-in')
+2023-08-15 00:48:21,712 [  28567]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _string ('built-in')
+2023-08-15 00:48:21,714 [  28569]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _struct ('built-in')
+2023-08-15 00:48:21,715 [  28570]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _symtable ('built-in')
+2023-08-15 00:48:21,717 [  28572]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _thread ('built-in')
+2023-08-15 00:48:21,719 [  28574]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tokenize ('built-in')
+2023-08-15 00:48:21,721 [  28576]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _tracemalloc ('built-in')
+2023-08-15 00:48:21,723 [  28578]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _warnings ('built-in')
+2023-08-15 00:48:21,725 [  28580]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _weakref ('built-in')
+2023-08-15 00:48:21,728 [  28583]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - array ('built-in')
+2023-08-15 00:48:21,730 [  28585]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - atexit ('built-in')
+2023-08-15 00:48:21,732 [  28587]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - binascii ('built-in')
+2023-08-15 00:48:21,734 [  28589]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - builtins ('built-in')
+2023-08-15 00:48:21,737 [  28592]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cmath ('built-in')
+2023-08-15 00:48:21,739 [  28594]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - errno ('built-in')
+2023-08-15 00:48:21,740 [  28595]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - faulthandler ('built-in')
+2023-08-15 00:48:21,742 [  28597]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - fcntl ('built-in')
+2023-08-15 00:48:21,744 [  28599]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gc ('built-in')
+2023-08-15 00:48:21,746 [  28601]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - grp ('built-in')
+2023-08-15 00:48:21,748 [  28603]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - itertools ('built-in')
+2023-08-15 00:48:21,750 [  28605]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - marshal ('built-in')
+2023-08-15 00:48:21,752 [  28607]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - math ('built-in')
+2023-08-15 00:48:21,754 [  28609]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - posix ('built-in')
+2023-08-15 00:48:21,755 [  28610]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pwd ('built-in')
+2023-08-15 00:48:21,757 [  28612]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pyexpat ('built-in')
+2023-08-15 00:48:21,759 [  28614]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - select ('built-in')
+2023-08-15 00:48:21,761 [  28616]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - spwd ('built-in')
+2023-08-15 00:48:21,763 [  28618]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - sys ('built-in')
+2023-08-15 00:48:21,765 [  28620]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - syslog ('built-in')
+2023-08-15 00:48:21,767 [  28622]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - time ('built-in')
+2023-08-15 00:48:21,769 [  28624]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - unicodedata ('built-in')
+2023-08-15 00:48:21,771 [  28626]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxsubtype ('built-in')
+2023-08-15 00:48:21,774 [  28629]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - zlib ('built-in')
+2023-08-15 00:48:21,777 [  28632]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imaging ('/usr/lib/python3/dist-packages/PIL/_imaging.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,780 [  28635]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingcms ('/usr/lib/python3/dist-packages/PIL/_imagingcms.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,782 [  28637]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingft ('/usr/lib/python3/dist-packages/PIL/_imagingft.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,785 [  28640]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmath ('/usr/lib/python3/dist-packages/PIL/_imagingmath.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,787 [  28642]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._imagingmorph ('/usr/lib/python3/dist-packages/PIL/_imagingmorph.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,791 [  28646]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - PIL._webp ('/usr/lib/python3/dist-packages/PIL/_webp.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,796 [  28651]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _asyncio ('/usr/lib/python3.11/lib-dynload/_asyncio.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,801 [  28656]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _bz2 ('/usr/lib/python3.11/lib-dynload/_bz2.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,805 [  28660]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _cffi_backend ('/usr/lib/python3/dist-packages/_cffi_backend.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,808 [  28663]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_cn ('/usr/lib/python3.11/lib-dynload/_codecs_cn.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,812 [  28667]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_hk ('/usr/lib/python3.11/lib-dynload/_codecs_hk.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,816 [  28671]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_iso2022 ('/usr/lib/python3.11/lib-dynload/_codecs_iso2022.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,820 [  28675]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_jp ('/usr/lib/python3.11/lib-dynload/_codecs_jp.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,824 [  28679]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_kr ('/usr/lib/python3.11/lib-dynload/_codecs_kr.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,827 [  28682]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _codecs_tw ('/usr/lib/python3.11/lib-dynload/_codecs_tw.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,832 [  28687]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _contextvars ('/usr/lib/python3.11/lib-dynload/_contextvars.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,836 [  28691]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _crypt ('/usr/lib/python3.11/lib-dynload/_crypt.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,840 [  28695]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes ('/usr/lib/python3.11/lib-dynload/_ctypes.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,843 [  28698]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ctypes_test ('/usr/lib/python3.11/lib-dynload/_ctypes_test.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,847 [  28702]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses ('/usr/lib/python3.11/lib-dynload/_curses.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,850 [  28705]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _curses_panel ('/usr/lib/python3.11/lib-dynload/_curses_panel.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,854 [  28709]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbm ('/usr/lib/python3.11/lib-dynload/_dbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,858 [  28713]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_bindings ('/usr/lib/python3/dist-packages/_dbus_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,861 [  28716]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _dbus_glib_bindings ('/usr/lib/python3/dist-packages/_dbus_glib_bindings.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,864 [  28719]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _decimal ('/usr/lib/python3.11/lib-dynload/_decimal.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,867 [  28722]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _gdbm ('/usr/lib/python3.11/lib-dynload/_gdbm.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,870 [  28725]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _hashlib ('/usr/lib/python3.11/lib-dynload/_hashlib.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,873 [  28728]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _json ('/usr/lib/python3.11/lib-dynload/_json.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,876 [  28731]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lsprof ('/usr/lib/python3.11/lib-dynload/_lsprof.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,879 [  28734]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _lzma ('/usr/lib/python3.11/lib-dynload/_lzma.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,882 [  28737]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multibytecodec ('/usr/lib/python3.11/lib-dynload/_multibytecodec.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,886 [  28741]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _multiprocessing ('/usr/lib/python3.11/lib-dynload/_multiprocessing.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,890 [  28745]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _posixshmem ('/usr/lib/python3.11/lib-dynload/_posixshmem.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,894 [  28749]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _queue ('/usr/lib/python3.11/lib-dynload/_queue.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,898 [  28753]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _sqlite3 ('/usr/lib/python3.11/lib-dynload/_sqlite3.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,902 [  28757]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _ssl ('/usr/lib/python3.11/lib-dynload/_ssl.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,905 [  28760]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testbuffer ('/usr/lib/python3.11/lib-dynload/_testbuffer.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,909 [  28764]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testcapi ('/usr/lib/python3.11/lib-dynload/_testcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,912 [  28767]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testclinic ('/usr/lib/python3.11/lib-dynload/_testclinic.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,915 [  28770]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testimportmultiple ('/usr/lib/python3.11/lib-dynload/_testimportmultiple.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,919 [  28774]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testinternalcapi ('/usr/lib/python3.11/lib-dynload/_testinternalcapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,922 [  28777]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _testmultiphase ('/usr/lib/python3.11/lib-dynload/_testmultiphase.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,925 [  28780]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _typing ('/usr/lib/python3.11/lib-dynload/_typing.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,928 [  28783]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _uuid ('/usr/lib/python3.11/lib-dynload/_uuid.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,931 [  28786]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxsubinterpreters ('/usr/lib/python3.11/lib-dynload/_xxsubinterpreters.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,935 [  28790]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _xxtestfuzz ('/usr/lib/python3.11/lib-dynload/_xxtestfuzz.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,939 [  28794]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - _zoneinfo ('/usr/lib/python3.11/lib-dynload/_zoneinfo.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,943 [  28798]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_inst ('/usr/lib/python3/dist-packages/apt_inst.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,947 [  28802]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - apt_pkg ('/usr/lib/python3/dist-packages/apt_pkg.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,950 [  28805]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - audioop ('/usr/lib/python3.11/lib-dynload/audioop.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,954 [  28809]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - bcrypt._bcrypt ('/usr/lib/python3/dist-packages/bcrypt/_bcrypt.abi3.so')
+2023-08-15 00:48:21,957 [  28812]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - brlapi ('/usr/lib/python3/dist-packages/brlapi.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,961 [  28816]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cairo._cairo ('/usr/lib/python3/dist-packages/cairo/_cairo.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,964 [  28819]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._openssl ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_openssl.abi3.so')
+2023-08-15 00:48:21,968 [  28823]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cryptography.hazmat.bindings._rust ('/usr/lib/python3/dist-packages/cryptography/hazmat/bindings/_rust.abi3.so')
+2023-08-15 00:48:21,972 [  28827]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cups ('/usr/lib/python3/dist-packages/cups.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:21,976 [  28831]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - cupsext ('/usr/lib/python3/dist-packages/cupsext.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,006 [  28861]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - duplicity._librsync ('/usr/lib/python3/dist-packages/duplicity/_librsync.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,029 [  28884]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - gi._gi ('/usr/lib/python3/dist-packages/gi/_gi.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,033 [  28888]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - hpmudext ('/usr/lib/python3/dist-packages/hpmudext.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,036 [  28891]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - markupsafe._speedups ('/usr/lib/python3/dist-packages/markupsafe/_speedups.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,040 [  28895]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - mmap ('/usr/lib/python3.11/lib-dynload/mmap.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,063 [  28918]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nacl._sodium ('/usr/lib/python3/dist-packages/nacl/_sodium.abi3.so')
+2023-08-15 00:48:22,067 [  28922]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - netifaces ('/usr/lib/python3/dist-packages/netifaces.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,071 [  28926]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - nis ('/usr/lib/python3.11/lib-dynload/nis.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,074 [  28929]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - ossaudiodev ('/usr/lib/python3.11/lib-dynload/ossaudiodev.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,077 [  28932]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pcardext ('/usr/lib/python3/dist-packages/pcardext.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,081 [  28936]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pvectorc ('/usr/lib/python3/dist-packages/pvectorc.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,085 [  28940]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss ('/usr/lib/python3/dist-packages/pysss.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,089 [  28944]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - pysss_murmur ('/usr/lib/python3/dist-packages/pysss_murmur.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,093 [  28948]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - readline ('/usr/lib/python3.11/lib-dynload/readline.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,096 [  28951]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.graphics._renderPM ('/usr/lib/python3/dist-packages/reportlab/graphics/_renderPM.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,100 [  28955]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - reportlab.lib._rl_accel ('/usr/lib/python3/dist-packages/reportlab/lib/_rl_accel.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,104 [  28959]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - resource ('/usr/lib/python3.11/lib-dynload/resource.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,108 [  28963]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - scanext ('/usr/lib/python3/dist-packages/scanext.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,111 [  28966]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._daemon ('/usr/lib/python3/dist-packages/systemd/_daemon.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,114 [  28969]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._journal ('/usr/lib/python3/dist-packages/systemd/_journal.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,117 [  28972]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd._reader ('/usr/lib/python3/dist-packages/systemd/_reader.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,120 [  28975]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.id128 ('/usr/lib/python3/dist-packages/systemd/id128.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,122 [  28977]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - systemd.login ('/usr/lib/python3/dist-packages/systemd/login.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,126 [  28981]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - termios ('/usr/lib/python3.11/lib-dynload/termios.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,129 [  28984]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited ('/usr/lib/python3.11/lib-dynload/xxlimited.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,132 [  28987]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - xxlimited_35 ('/usr/lib/python3.11/lib-dynload/xxlimited_35.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,136 [  28991]   INFO - #c.j.p.s.s.PySkeletonGenerator$Run - yaml._yaml ('/usr/lib/python3/dist-packages/yaml/_yaml.cpython-311-x86_64-linux-gnu.so')
+2023-08-15 00:48:22,147 [  29002]   INFO - #c.j.p.s.s.PySkeletonRefresher - Rebuilding skeletons for binaries took 1568 ms
+2023-08-15 00:48:22,257 [  29112]   INFO - #c.i.o.a.i.PopupMenuPreloader - 16847 ms since showing to preload popup menu 'Help' at 'MainMenu' in 1615 ms
+2023-08-15 00:48:22,531 [  29386]   INFO - #c.j.p.s.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.11 (/usr/bin/python3.11)
+2023-08-15 00:48:22,534 [  29389]   INFO - #c.j.p.p.PyPackageManagerImpl - Running packaging tool: /usr/bin/python3.11 /snap/pycharm-educational/57/plugins/python-ce/helpers/packaging_tool.py list
+2023-08-15 00:48:23,582 [  30437]   INFO - #c.i.c.ComponentStoreImpl - Saving appCodeInsightSettings took 29 ms, FileTypeManager took 50 ms, ProjectJdkTable took 25 ms, TemplateSettings took 11 ms
+2023-08-15 00:48:25,639 [  32494]   INFO - #c.i.c.ComponentStoreImpl - Saving Project(name=ThisIsCodingTestWithPython, containerState=COMPONENT_CREATED, componentStore=/home/lee/coding/python/ThisIsCodingTestWithPython)RunManager took 1948 ms
+2023-08-15 00:48:25,707 [  32562]   WARN - #c.i.o.a.i.ActionUpdater - 3369 ms to call on BGT RunContextAction#update@EditorPopup (com.intellij.execution.actions.RunContextAction)
+2023-08-15 00:48:25,708 [  32563]   WARN - #c.i.o.a.i.ActionUpdater - 3619 ms to call on BGT RunContextAction#update@EditorPopup (com.intellij.execution.actions.RunContextAction)
+2023-08-15 00:48:25,790 [  32645]   INFO - #c.i.o.c.i.s.StoreUtil - saveProjectsAndApp took 2576 ms
+2023-08-15 00:48:26,122 [  32977]   INFO - #c.i.u.i.UnindexedFilesUpdater - Scanning completed for ThisIsCodingTestWithPython. Number of scanned files: 8751; Number of files for indexing: 11 took 7777ms; general responsiveness: ok; EDT responsiveness: 3/8 sluggish, 1/8 very slow
+2023-08-15 00:48:26,188 [  33043]   INFO - #c.i.u.i.UnindexedFilesUpdater - Use 4 indexing threads for indexing of ThisIsCodingTestWithPython
+2023-08-15 00:48:27,355 [  34210]   INFO - #c.i.u.i.UnindexedFilesUpdater - Finished for ThisIsCodingTestWithPython. Unindexed files update took 1192ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-15 00:48:27,444 [  34299]   INFO - #c.i.u.i.FileBasedIndexProjectHandler - Reindexing refreshed files of ThisIsCodingTestWithPython : 302 to update, calculated in 43ms
+2023-08-15 00:48:27,450 [  34305]   INFO - #c.i.u.i.FileBasedIndexProjectHandler - Using 4 threads for indexing
+2023-08-15 00:48:28,072 [  34927]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11817 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 389 ms
+2023-08-15 00:48:28,078 [  34933]   INFO - #c.i.o.a.i.PopupMenuPreloader - 11925 ms since showing to preload popup menu 'Editor Popup Menu' at 'EditorPopup' in 397 ms
+2023-08-15 00:48:28,369 [  35224]   INFO - #c.i.o.a.i.PopupMenuPreloader - 12011 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 671 ms
+2023-08-15 00:48:28,383 [  35238]   INFO - #c.i.o.a.i.PopupMenuPreloader - 10021 ms since showing to preload popup menu 'Project View Popup Menu' at 'ProjectViewPopup' in 682 ms
+2023-08-15 00:48:30,675 [  37530]   INFO - #c.i.d.PerformanceWatcherImpl - Reindexing refreshed files of ThisIsCodingTestWithPython took 3228ms; general responsiveness: ok; EDT responsiveness: ok
+2023-08-15 00:53:30,860 [ 337715]   INFO - #c.i.i.b.BookmarkManager - no state loaded for old bookmarks
+2023-08-15 00:53:30,863 [ 337718]   INFO - #c.i.i.f.FavoritesManager - no state loaded for old favorites
+2023-08-15 00:53:31,148 [ 338003]   INFO - #c.j.p.p.PyPIPackageCache - Loaded 474148 packages from /home/lee/.cache/JetBrains/PyCharmEdu2022.2/python_packages/pypi-cache.json

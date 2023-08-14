@@ -1,0 +1,59 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2TyBBggiHCRtX25zJUHQhSPqDeC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Edu.CourseCreator.Enabled": "false",
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "GeneralSettings.initiallyConfigured": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharmEDU.InitialConfiguration": "true",
+    "PyCharmEDU.InitialConfiguration.V1": "true",
+    "PyCharmEDU.InitialConfiguration.V2": "true",
+    "PyCharmEDU.InitialConfiguration.V3": "true",
+    "PyCharmEDU.InitialConfiguration.V4": "true",
+    "PyCharmEDU.initialConfigurationShown": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "ShowDocumentationInToolWindow": "true",
+    "StudyShowPopup": "true",
+    "appcds.runOnSecondStart": "PE-222.4345.35-64cb2905440beecb2530aed990b3ef2a478d2a3af930680e2bb8dd00cc3c5461",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PE-222.4345.35",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "PE-222.4345.35",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/lee/coding/python/ThisIsCodingTestWithPython",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "PE-222.4345.35",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/lee/coding/python/ThisIsCodingTestWithPython"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

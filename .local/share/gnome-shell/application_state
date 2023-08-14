@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="snap-store_ubuntu-software.desktop" score="1.140625" last-seen="1692015784"/>
+    <application id="code.desktop" score="5.59375" last-seen="1692016481"/>
+    <application id="org.gnome.Nautilus.desktop" score="3.53125" last-seen="1692023217"/>
+    <application id="gnome-language-selector.desktop" score="0.03125" last-seen="1692004803"/>
+    <application id="gnome-initial-setup.desktop" score="0.078125" last-seen="1692004203"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1692016044"/>
+    <application id="org.gnome.Terminal.desktop" score="14.171875" last-seen="1692028214"/>
+    <application id="software-properties-gtk.desktop" score="0.0625" last-seen="1692004178"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1692016025"/>
+    <application id="org.gnome.Settings.desktop" score="9586912.5" last-seen="1692017034"/>
+    <application id="thunderbird.desktop" score="2.25" last-seen="1692015528"/>
+    <application id="firefox_firefox.desktop" score="219.078125" last-seen="1692028167"/>
+    <application id="update-manager.desktop" score="0.296875" last-seen="1692004453"/>
+    <application id="pycharm-educational_pycharm-educational.desktop" score="3.328125" last-seen="1692028102"/>
+    <application id="org.gnome.DiskUtility.desktop" score="2" last-seen="1692023216"/>
+  </context>
+</application-state>

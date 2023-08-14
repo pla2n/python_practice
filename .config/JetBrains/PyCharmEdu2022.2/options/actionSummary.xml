@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="23" l="1692005463206" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1692005458900" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="1" l="1692005455709" />
+    </e>
+    <e n="FileChooser.Delete">
+      <i c="1" l="1692005256814" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="4" l="1692005277833" />
+    </e>
+    <e n="RenameFile">
+      <i c="1" l="1692005449623" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1692005214271" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1692005208427" />
+    </e>
+  </component>
+</application>

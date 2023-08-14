@@ -1,0 +1,102 @@
+<html><head><title>Indexing diagnostics of &#39;ThisIsCodingTestWithPython&#39;</title><style>body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 80%;
+}
+
+table.two-columns td {
+  width: 50%;
+}
+
+th, td {
+  padding: 3px;
+}
+
+th {
+  background: lightgrey;
+}
+
+td {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+        
+.stats-content {
+  margin-left: 20%;
+}
+
+.aggregate-report-content {
+  margin-left: 10%;
+}
+
+.navigation-bar {
+  width: 15%;
+  background-color: lightgrey;
+  position: fixed;
+  height: 100%;
+}
+
+div.navigation-bar ul {
+  list-style-type: none;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+}
+
+div.navigation-bar ul li a, label {
+  display: block;
+  color: #000;
+  padding: 8px 20px;
+  text-decoration: none;
+}
+
+label input {
+  margin-left: 10px;
+  width: 20px;
+  height: 20px;
+}
+
+div.navigation-bar ul li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+.minor-data {}
+
+.invisible {
+  display: none;
+}
+
+.jetbrains-logo {
+  width: 50%;
+  bottom: 5%;
+  position: absolute;
+  left: 20%;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+.linkable-table-row:hover {
+  background: #f2f3ff;
+  outline: none;
+  cursor: pointer;
+}</style><script>document.addEventListener("DOMContentLoaded", () => {
+  const rows = document.getElementsByClassName("linkable-table-row")
+  for (const row of rows) {
+    const href = row.getAttribute("href")
+    row.addEventListener("click", () => {
+      window.open(href, "_blank");
+    });
+  }
+});</script></head><body><div class="aggregate-report-content"><h1>Project name</h1>ThisIsCodingTestWithPython<div><h1>Indexing history</h1><table class="centered-text"><caption style="caption-side: bottom; text-align: right; font-size: 14px">Hover for details</caption><thead><tr><th colspan="7">Time</th><th colspan="6">Files</th><th rowspan="2">IDE</th><th rowspan="2">Type</th></tr><tr><th>Started</th><th>Total</th><th>Creating iterators</th><th>Scanning</th><th>Indexing</th><th>Content loading</th><th>Finished</th><th>Providers</th><th>Scanned</th><th>Shared indexes (w/o content loading)</th><th>Scheduled for indexing</th><th>Shared indexes (content loaded)</th><th>Total indexed (shared indexes included)</th></tr></thead><tbody><tr class="linkable-table-row" href="diagnostic-2023-08-15-00-48-30.674.html"><td><strong>On refresh of 302 files</strong><br/>00:48:27 15 8월</td><td>3 s 224 ms</td><td>0</td><td>43 ms</td><td>3 s 218 ms</td><td>13 ms</td><td>00:48:30 15 8월</td><td>1</td><td>302</td><td>0</td><td>302</td><td>0</td><td>302</td><td>PE-222.4345.35</td><td>refresh</td></tr><tr class="linkable-table-row" href="diagnostic-2023-08-15-00-48-27.373.html"><td><strong>On project open</strong><br/>00:48:18 15 8월</td><td>9 s 159 ms</td><td>16 ms</td><td>7 s 756 ms</td><td>1 s 181 ms</td><td>19 ms</td><td>00:48:27 15 8월</td><td>6</td><td>8751</td><td>0</td><td>11</td><td>0</td><td>11</td><td>PE-222.4345.35</td><td>full on project open</td></tr><tr class="linkable-table-row" href="diagnostic-2023-08-14-18-28-49.942.html"><td><strong>On refresh of 443 files</strong><br/>18:28:49 14 8월</td><td>659 ms</td><td>0</td><td>0</td><td>659 ms</td><td>19 ms</td><td>18:28:49 14 8월</td><td>1</td><td>443</td><td>0</td><td>443</td><td>21</td><td>443</td><td>PE-222.4345.35</td><td>refresh</td></tr><tr class="linkable-table-row" href="diagnostic-2023-08-14-18-28-49.265.html"><td><strong>changes in: &quot;Python SDK Python 3.11&quot;</strong><br/>18:28:28 14 8월</td><td>20 s 378 ms</td><td>&lt; 1 ms</td><td>1 s 219 ms</td><td>18 s 948 ms</td><td>567 ms</td><td>18:28:49 14 8월</td><td>1</td><td>8094</td><td>0</td><td>7205</td><td>3852</td><td>7205</td><td>PE-222.4345.35</td><td>partial</td></tr><tr class="linkable-table-row" href="diagnostic-2023-08-14-18-28-28.202.html"><td><strong>On project open</strong><br/>18:28:26 14 8월</td><td>1 s 463 ms</td><td>522 ms</td><td>344 ms</td><td>486 ms</td><td>16 ms</td><td>18:28:28 14 8월</td><td>5</td><td>215</td><td>0</td><td>215</td><td>0</td><td>215</td><td>PE-222.4345.35</td><td>full on project open</td></tr></tbody></table></div><div><h1>Shared Indexes</h1><table><thead><tr><th>Time</th><th>Kind</th><th>Name</th><th>Size</th><th>Download time</th><th>Download speed</th><th>Status</th><th>ID</th><th>Generation time</th></tr></thead><tbody></tbody></table></div><div><h1>Scanning to push properties of changed files</h1><table><thead><tr><th>Time</th><th>Reason</th><th>Full duration</th><th>Is cancelled</th><th>Number</th></tr></thead><tbody><tr><td>18:39:36 14 8월</td><td>Push on VFS changes</td><td>&lt; 1 ms</td><td>fully finished</td><td>1</td></tr><tr><td>18:28:49 14 8월</td><td>Push on VFS changes</td><td>1 ms</td><td>fully finished</td><td>1</td></tr></tbody></table></div></div></body></html>

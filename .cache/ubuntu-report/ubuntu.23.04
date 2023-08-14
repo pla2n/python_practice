@@ -1,0 +1,69 @@
+{
+  "Version": "23.04",
+  "OEM": {
+    "Vendor": "SAMSUNG ELECTRONICS CO., LTD.",
+    "Product": "950XEE",
+    "Family": "Galaxy Book2 Pro"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends International, LLC.",
+    "Version": "P10RGG.060.230411.XW"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "46a6"
+    }
+  ],
+  "RAM": 16,
+  "Disks": [
+    256.4
+  ],
+  "Partitions": [
+    59.1,
+    1.1,
+    250.3
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "ko_KR",
+  "Timezone": "Asia/Seoul",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 23.04",
+    "Language": "ko",
+    "Stages": {
+      "11": "try-or-install",
+      "15": "keyboard-layout",
+      "18": "connect-to-internet",
+      "23": "update-other-software",
+      "27": "installation-type",
+      "31": "write-changes-to-disk",
+      "33": "where-are-you",
+      "35": "who-are-you",
+      "49": "choose-your-look",
+      "51": "installation-slides",
+      "938": "installation-complete",
+      "941": "done"
+    },
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "PartitionMethod": "resize_use_free",
+    "UseActiveDirectory": false
+  }
+}
