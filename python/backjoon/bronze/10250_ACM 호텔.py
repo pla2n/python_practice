@@ -4,15 +4,21 @@ input = sys.stdin.readline
 N = int(input())
 for k in range(N):
     h, w, n = map(int, input().split())
-    L = [[]*(w+1) for i in range(h+1)]
-    print(L)
+    L = [[0]*(w+1) for i in range(h+1)]
     for i in range(1, h+1):
         for j in range(1, w+1):
-            if j > 9:
-                L[i][j].append(i)
-                L[i][j].append(j)
-            else:
-                L[i][j].append(i)
-                L[i][j].append(0)
-                L[i][j].append(j)
-    print(L)
+            L[i][j] += 100*i + j
+    count = 0
+    for i in range(1, w+1):
+        for j in range(1, h+1):
+            count += 1
+            if count == n:
+                print(L[j][i])
+
+
+for _ in range(int(input())):
+    H,W,N=map(int,input().split())
+    if N%H:
+        print((N%H)*100+N//H+1)
+    else:
+        print(H*100+N//H)
