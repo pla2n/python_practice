@@ -16,3 +16,15 @@ K1KA5CB7
 
 AJKDLSI412K4JSJ9D
 '''
+
+S = list(map(str, input()))
+S.sort()
+result = []
+rs = 0
+for i in range(len(S)):
+    if S[i].isdigit():
+        rs += int(S[i])
+    else:
+        result.append(S[i])
+print(''.join(result), end='')
+print(rs)
