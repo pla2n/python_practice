@@ -18,3 +18,12 @@ print(result)
 8 5
 1 5 4 3 2 4 5 2
 '''
+
+n, m = map(int, input().split())
+L = list(map(int, input().split()))
+count = 0
+for i in range(n-1):
+    for j in range(i, n):
+        if L[i] != L[j]:
+            count += 1
+print(count)
