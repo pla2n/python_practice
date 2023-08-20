@@ -48,9 +48,57 @@
 #                             new_lock[i + x][j + y] -= key_array[x][y]
 #     return False
 
+def rotate(key, d):
+    n = len(key)
+    L = [[0]*n for _ in range(n)]
+    if d % 4 == 1:
+        for i in range(n):
+            for j in range(n):
+                L[j][n-i-1] = key[i][j]
+    elif d % 4 == 2:
+        for i in range(n):
+            for j in range(n):
+                L[n-i-1][n-j-1] = key[i][j]
+    elif d % 4 == 3:
+        for i in range(n):
+            for j in range(n):
+                L[n-j-1][i] = key[i][j]
+    else:
+        return key
+    return L
+
+def check(lock):
+    n = len(lock) // 3
+    for i in range(n, 2*n):
+        for j in range(n, 2*n):
+            if lock[i][j] != 1:
+                return False
+    return True
+
 def solution(key, lock):
     n = len(lock)
     m = len(key)
+    s_lock = [[0]*(3*n) for _ in range(3*n)]
+    for i in range(n):
+        for j in range(n):
+            s_lock[i+n][j+n] = lock[i][j]
+    for i in range(1, 2*n):
+        for j in range(1, 2*n):
+            for d in range(4):
+                L = rotate(key, d)
+                for x in range(m):
+                    for y in range(m):
+                        s_lock[i+x][j+y] += L[x][y]
+                if check(s_lock):
+                    return True
+                else:
+                    for x in range(m):
+                        for y in range(m):
+                            s_lock[i + x][j + y] -= L[x][y]
+    return False
+
+
+
     
 rs = solution([[0, 0, 0], [1, 0, 0], [0, 1, 1]], [[1, 1, 1], [1, 1, 0], [1, 0, 1]])
 print(rs)
