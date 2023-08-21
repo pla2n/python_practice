@@ -35,28 +35,51 @@ input = sys.stdin.readline
 n, m, k, x = map(int, input().split())
 L = [list(map(int, input().split())) for _ in range(m)]
 
-graph = [[] for _ in range(n+1)]
+# graph = [[] for _ in range(n+1)]
+#
+# visited = [False] * (n+1)
+# for l in L:
+#     graph[l[0]].append(l[1])
+#
+# def bfs(x, visited):
+#     dist = [float("inf")] * (n+1)
+#     dist[x] = 0
+#     q = deque([x])
+#     while q:
+#         node = q.popleft()
+#         for i in graph[node]:
+#             if not visited[i]:
+#                 dist[i] = min(dist[i], dist[node]+1)
+#                 q.append(i)
+#                 visited[i] = True
+#     return [node for node in range(1, n+1) if dist[node] == k]
+# result = bfs(x, visited)
+# if result:
+#     result.sort()
+#     for city in result:
+#         print(city)
+# else:
+#     print(-1)
 
-visited = [False] * (n+1)
-for l in L:
-    graph[l[0]].append(l[1])
-
-def bfs(x, visited):
+def bfs():
     dist = [float("inf")] * (n+1)
     dist[x] = 0
     q = deque([x])
     while q:
         node = q.popleft()
         for i in graph[node]:
-            if not visited[i]:
-                dist[i] = min(dist[i], dist[node]+1)
+            if dist[i] == float("inf"):
+                dist[i] = min(dist[i], dist[node] + 1)
                 q.append(i)
-                visited[i] = True
-    return [node for node in range(1, n+1) if dist[node] == k]
-result = bfs(x, visited)
-if result:
-    result.sort()
-    for city in result:
-        print(city)
+    return [i for i in range(1, n+1) if dist[i] == k]
+
+graph = [[] for _ in range(n+1)]
+for l in L:
+    graph[l[0]].append(l[1])
+
+rs = bfs()
+if rs:
+    for i in rs:
+        print(i)
 else:
     print(-1)
