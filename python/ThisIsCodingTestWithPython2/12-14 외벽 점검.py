@@ -18,7 +18,7 @@ def solution(n, weak, dist):
     L = len(weak)
     cand = []
     weak_point = weak + [w+n for w in weak]  # 선형으로 만들기 위해 두배로 함
-    for i, start in enumerate(weak):
+    for i, start in enumerate(weak): # index와 값 출력
         for friends in permutations(dist):  # 순열 이용
             count = 1 # 친구 수
             position = start # 현재 위치
@@ -35,5 +35,24 @@ def solution(n, weak, dist):
                     break
 
     return min(cand) if cand else -1
+
+# def solution(n, weak, dist):
+#     L = len(weak)
+#     cand = []
+#     weak_point = weak + [w+n for w in weak]
+#     for index, start in enumerate(weak):
+#         for friends in permutations(dist):
+#             count = 1
+#             pos = start
+#             for friend in friends:
+#                 pos += friend
+#                 if pos < weak_point[index+L-1]:
+#                     count += 1
+#                     pos = [w for w in weak_point[index+1:index+L] if w > pos][0]
+#                 else:
+#                     cand.append(count)
+#                     break
+#     return min(cand) if cand else -1
+
 
 print(solution(12, [1, 5, 6, 10], [1, 2, 3, 4]))
