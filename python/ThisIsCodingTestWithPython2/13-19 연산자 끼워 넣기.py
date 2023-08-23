@@ -37,37 +37,36 @@ input = sys.stdin.readline
 # print(min(rs))
 
 
-# 나동진씨가 이 소스코드를 올렸지만 백준에서는 틀렸다고 나온다.... 흠
 n = int(input())
 
 data = list(map(int, input().split()))
 add, sub, mul, div = map(int, input().split())
 
-minv = 1e9
-maxv = -1e9
-def dfs(i, now):
-    global minv, maxv, add, sub, mul, div
+minv = int(1e9)
+maxv = -int(1e9)
+def dfs(i, now, add, sub, mul, div):
+    global minv, maxv
     if i == n:
         minv = min(minv, now)
         maxv = max(maxv, now)
     else:
         if add > 0:
             add -= 1
-            dfs(i+1, now+data[i])
+            dfs(i+1, now+data[i], add, sub, mul, div)
             add += 1
         if sub > 0:
             sub -= 1
-            dfs(i+1, now-data[i])
+            dfs(i+1, now-data[i], add, sub, mul, div)
             sub += 1
         if mul > 0:
             mul -= 1
-            dfs(i+1, now*data[i])
+            dfs(i+1, now*data[i], add, sub, mul, div)
             mul += 1
         if div > 0:
             div -= 1
-            dfs(i+1, int(now/data[i]))
+            dfs(i+1, int(now/data[i]), add, sub, mul, div)
             div += 1
-dfs(1, data[0])
+dfs(1, data[0], add, sub, mul, div)
 
 print(maxv)
 print(minv)

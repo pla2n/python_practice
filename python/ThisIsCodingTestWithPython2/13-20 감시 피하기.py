@@ -50,6 +50,19 @@ def solution():
             return True
     return False
 
+def dfs(count):
+    global a
+    if count == 3:
+        if bfs():
+            a = 0
+        return
+    for i in range(n):
+        for j in range(n):
+            if L[i][j] == "X":
+                L[i][j] = "O"
+                dfs(count+1)
+                L[i][j] = "X"
+
 rs = solution()
 if rs:
     print("YES")

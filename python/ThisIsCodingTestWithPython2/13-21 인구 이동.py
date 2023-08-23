@@ -1,3 +1,5 @@
+# 하루에 일어나는 일들은 전부 한 번으로 침
+
 import sys
 from collections import deque
 input = sys.stdin.readline
