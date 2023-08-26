@@ -3,12 +3,17 @@ input = sys.stdin.readline
 
 n = int(input())
 L = list(map(int, input().split()))
-count = 0
-
+L.reverse()
+graph = [1]*n
+result = []
 for i in range(1, n):
-    if L[i-1] <= L[i]:
-        count += 1
-        L[i] = L[i-1]
-    elif L[i] <= L[i+1]:
-        count += 1
-        L[i] = L[i-1]
+    for j in range(0, i):
+        if L[j] < L[i]:
+            graph[i] = max(graph[i], graph[j]+1)
+print(n-max(graph))
+
+
+'''
+7
+15 11 4 8 5 2 4
+'''
