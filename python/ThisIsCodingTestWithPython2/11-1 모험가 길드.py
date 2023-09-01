@@ -29,3 +29,16 @@ for i in range(n):
         count = 0
         rs += 1
 print(rs)
+
+n = int(input())
+L = list(map(int, input().split()))
+
+L.sort()
+count = 0
+result = 0
+for i in range(n):
+    count += 1
+    if count == L[i]:
+        result += 1
+        count = 0;
+print(result)

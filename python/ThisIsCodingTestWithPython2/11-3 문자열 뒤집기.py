@@ -16,18 +16,33 @@
 # result = min(c0, c1)
 # print(result)
 
-L = list(map(int, input()))
-c0=0
-c1=0
-for i in range(1, len(L)):
-    if L[i-1] != L[i]:
-        if L[i-1] == 0:
-            c0 += 1
-        else:
-            c1 += 1
+# L = list(map(int, input()))
+# c0=0
+# c1=0
+# for i in range(1, len(L)):
+#     if L[i-1] != L[i]:
+#         if L[i-1] == 0:
+#             c0 += 1
+#         else:
+#             c1 += 1
+#
+# if L[-1] == 0:
+#     c0 += 1
+# else:
+#     c1 += 1
+# print(min(c0, c1))
 
-if L[-1] == 0:
-    c0 += 1
+S = list(map(int, input()))
+r1 = 0
+r0 = 0
+for i in range(len(S)-1):
+    if S[i] != S[i+1]:
+        if S[i-1] == 0:
+            r0 += 1
+        else:
+            r1 += 1
+if S[-1] == 0:
+    r0 += 1
 else:
-    c1 += 1
-print(min(c0, c1))
+    r1 += 1
+print(min(r0, r1))
