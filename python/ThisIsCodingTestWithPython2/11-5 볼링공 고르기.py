@@ -31,9 +31,9 @@ input = sys.stdin.readline
 n, m = map(int, input().split())
 L = list(map(int, input().split()))
 
-result = 0
+rs = 0
 for i in range(n-1):
     for j in range(i+1, n):
         if L[i] != L[j]:
-            result += 1
-print(result)
+            rs += 1
+print(rs)
